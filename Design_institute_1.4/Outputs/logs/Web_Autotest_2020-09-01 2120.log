@@ -1,0 +1,351 @@
+ Tue, 01 Sep 2020 21:20:50  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="loginName"]')元素可见,耗时0.029919862747192383
+ Tue, 01 Sep 2020 21:20:50  INFO basepage.py get_element [ line:73 ] 查找清空用户名输入框的元素('xpath', '//input[@id="loginName"]')成功。
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//input[@id="loginName"]')内容成功
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="loginName"]')元素可见,耗时0.022971630096435547
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py get_element [ line:73 ] 查找输入用户名的元素('xpath', '//input[@id="loginName"]')成功。
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="loginName"]')元素输入18600982461成功
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="password"]')元素可见,耗时0.02393507957458496
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py get_element [ line:73 ] 查找清空用户名输入框的元素('xpath', '//input[@id="password"]')成功。
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//input[@id="password"]')内容成功
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="password"]')元素可见,耗时0.024936199188232422
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py get_element [ line:73 ] 查找输入密码的元素('xpath', '//input[@id="password"]')成功。
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="password"]')元素输入123456成功
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@id="button"]')元素可见,耗时0.07943511009216309
+ Tue, 01 Sep 2020 21:20:51  INFO basepage.py get_element [ line:73 ] 查找点击登陆按钮的元素('xpath', '//span[@id="button"]')成功。
+ Tue, 01 Sep 2020 21:20:52  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@id="button"]')元素点击成功
+ Tue, 01 Sep 2020 21:20:56  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="系统管理"]')元素可见,耗时0.08388233184814453
+ Tue, 01 Sep 2020 21:20:56  INFO basepage.py get_element [ line:73 ] 查找点击系统管理的元素('xpath', '//span[text()="系统管理"]')成功。
+ Tue, 01 Sep 2020 21:20:56  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="系统管理"]')元素点击成功
+ Tue, 01 Sep 2020 21:20:57  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[text()="工日管理"]')元素可见,耗时0.02652740478515625
+ Tue, 01 Sep 2020 21:20:57  INFO basepage.py get_element [ line:73 ] 查找点击工日管理的元素('xpath', '//a[text()="工日管理"]')成功。
+ Tue, 01 Sep 2020 21:20:57  INFO basepage.py click_by_js [ line:163 ] 向('xpath', '//a[text()="工日管理"]')元素点击成功
+ Tue, 01 Sep 2020 21:20:58  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="质量评定管理"]')元素可见,耗时0.1822953224182129
+ Tue, 01 Sep 2020 21:20:58  INFO basepage.py get_element [ line:73 ] 查找点击质量评定管理的元素('xpath', '//label[text()="质量评定管理"]')成功。
+ Tue, 01 Sep 2020 21:20:58  INFO basepage.py click_by_js [ line:163 ] 向('xpath', '//label[text()="质量评定管理"]')元素点击成功
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="projectType_chosen"]//b')元素可见,耗时0.0807955265045166
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py get_element [ line:73 ] 查找点击项目类型下拉框的元素('xpath', '//div[@id="projectType_chosen"]//b')成功。
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@id="projectType_chosen"]//b')元素点击成功
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素可见,耗时0.028030872344970703
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py get_element [ line:73 ] 查找输入工程名称的元素('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')成功。
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素输入光伏工程 成功
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素可见,耗时0.020955324172973633
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py get_element [ line:73 ] 查找输入框点回车键的元素('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')成功。
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素输入成功
+ Tue, 01 Sep 2020 21:20:59  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//select[@id="yesOrNo"]/following-sibling::div//b')元素可见,耗时0.08461880683898926
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py get_element [ line:73 ] 查找点击是否参与的元素('xpath', '//select[@id="yesOrNo"]/following-sibling::div//b')成功。
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py click [ line:141 ] 向('xpath', '//select[@id="yesOrNo"]/following-sibling::div//b')元素点击成功
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="yesOrNo_chosen"]//input')元素可见,耗时0.02792501449584961
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py get_element [ line:73 ] 查找的元素('xpath', '//div[@id="yesOrNo_chosen"]//input')成功。
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@id="yesOrNo_chosen"]//input')元素输入是 成功
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="yesOrNo_chosen"]//input')元素可见,耗时0.024890422821044922
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py get_element [ line:73 ] 查找输入框点回车键的元素('xpath', '//div[@id="yesOrNo_chosen"]//input')成功。
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@id="yesOrNo_chosen"]//input')元素输入成功
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="保存"]')元素可见,耗时0.09395289421081543
+ Tue, 01 Sep 2020 21:21:00  INFO basepage.py get_element [ line:73 ] 查找点击保存按钮的元素('xpath', '//span[text()="保存"]')成功。
+ Tue, 01 Sep 2020 21:21:01  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="保存"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@class="label label-warning"]')元素可见,耗时0.6280412673950195
+ Tue, 01 Sep 2020 21:21:01  INFO basepage.py get_element [ line:73 ] 查找获取保存成功提示语的元素('xpath', '//span[@class="label label-warning"]')成功。
+ Tue, 01 Sep 2020 21:21:02  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//span[@class="label label-warning"]')元素文本值成功
+ Tue, 01 Sep 2020 21:21:02  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="系统管理"]')元素可见,耗时0.08272957801818848
+ Tue, 01 Sep 2020 21:21:02  INFO basepage.py get_element [ line:73 ] 查找点击系统管理的元素('xpath', '//span[text()="系统管理"]')成功。
+ Tue, 01 Sep 2020 21:21:03  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="系统管理"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:03  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[text()="工日管理"]')元素可见,耗时0.07654881477355957
+ Tue, 01 Sep 2020 21:21:03  INFO basepage.py get_element [ line:73 ] 查找点击工日管理的元素('xpath', '//a[text()="工日管理"]')成功。
+ Tue, 01 Sep 2020 21:21:03  INFO basepage.py click_by_js [ line:163 ] 向('xpath', '//a[text()="工日管理"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:04  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="质量评定管理"]')元素可见,耗时0.12096595764160156
+ Tue, 01 Sep 2020 21:21:04  INFO basepage.py get_element [ line:73 ] 查找点击质量评定管理的元素('xpath', '//label[text()="质量评定管理"]')成功。
+ Tue, 01 Sep 2020 21:21:05  INFO basepage.py click_by_js [ line:163 ] 向('xpath', '//label[text()="质量评定管理"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:05  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="projectType_chosen"]//b')元素可见,耗时0.07785248756408691
+ Tue, 01 Sep 2020 21:21:05  INFO basepage.py get_element [ line:73 ] 查找点击项目类型下拉框的元素('xpath', '//div[@id="projectType_chosen"]//b')成功。
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@id="projectType_chosen"]//b')元素点击成功
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素可见,耗时0.02592754364013672
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py get_element [ line:73 ] 查找输入工程名称的元素('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')成功。
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素输入光伏工程 成功
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素可见,耗时0.025900840759277344
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py get_element [ line:73 ] 查找输入框点回车键的元素('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')成功。
+ Tue, 01 Sep 2020 21:21:06  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@id="projectType_chosen"]//div[@class="chosen-search"]//input[@type="text"]')元素输入成功
+ Tue, 01 Sep 2020 21:21:08  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="yesOrNo_chosen"]//a[@class="chosen-single"]')元素可见,耗时0.08756184577941895
+ Tue, 01 Sep 2020 21:21:08  INFO basepage.py get_element [ line:73 ] 查找获取是否参与提示文本的元素('xpath', '//div[@id="yesOrNo_chosen"]//a[@class="chosen-single"]')成功。
+ Tue, 01 Sep 2020 21:21:08  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//div[@id="yesOrNo_chosen"]//a[@class="chosen-single"]')元素文本值成功
+ Tue, 01 Sep 2020 21:21:09  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="loginName"]')元素可见,耗时0.2371537685394287
+ Tue, 01 Sep 2020 21:21:09  INFO basepage.py get_element [ line:73 ] 查找输入用户名的元素('xpath', '//input[@id="loginName"]')成功。
+ Tue, 01 Sep 2020 21:21:09  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="loginName"]')元素输入18612356691成功
+ Tue, 01 Sep 2020 21:21:09  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="password"]')元素可见,耗时0.02553868293762207
+ Tue, 01 Sep 2020 21:21:09  INFO basepage.py get_element [ line:73 ] 查找输入密码的元素('xpath', '//input[@id="password"]')成功。
+ Tue, 01 Sep 2020 21:21:09  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="password"]')元素输入123456成功
+ Tue, 01 Sep 2020 21:21:10  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//li[@class="cp"]')元素可见,耗时0.08270692825317383
+ Tue, 01 Sep 2020 21:21:10  INFO basepage.py get_element [ line:73 ] 查找登陆的元素('xpath', '//li[@class="cp"]')成功。
+ Tue, 01 Sep 2020 21:21:10  INFO basepage.py click [ line:141 ] 向('xpath', '//li[@class="cp"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:12  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时1.168647050857544
+ Tue, 01 Sep 2020 21:21:12  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 01 Sep 2020 21:21:12  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 21:21:13  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.05486011505126953
+ Tue, 01 Sep 2020 21:21:13  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Tue, 01 Sep 2020 21:21:13  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 21:21:14  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"添加项目")]')元素可见,耗时0.28041577339172363
+ Tue, 01 Sep 2020 21:21:14  INFO basepage.py get_element [ line:73 ] 查找首页_点击'添加项目'的元素('xpath', '//span[contains(text(),"添加项目")]')成功。
+ Tue, 01 Sep 2020 21:21:14  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"添加项目")]')元素点击成功
+ Tue, 01 Sep 2020 21:21:15  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素可见,耗时0.32459568977355957
+ Tue, 01 Sep 2020 21:21:15  INFO basepage.py get_element [ line:73 ] 查找选择项目类型的元素('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')成功。
+ Tue, 01 Sep 2020 21:21:15  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:15  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="光伏工程"]/parent::li')元素可见,耗时0.06288552284240723
+ Tue, 01 Sep 2020 21:21:15  INFO basepage.py get_element [ line:73 ] 查找项目类型选择'光伏工程'的元素('xpath', '//a[@title="光伏工程"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:15  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="光伏工程"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"工程类型")]/parent::li/div')元素可见,耗时0.6502480506896973
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_element [ line:73 ] 查找获取'工程类型'文本信息的元素('xpath', '//label[contains(text(),"工程类型")]/parent::li/div')成功。
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[contains(text(),"工程类型")]/parent::li/div')元素文本值成功
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"建设性质")]/parent::li/div')元素可见,耗时0.05402779579162598
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_element [ line:73 ] 查找获取'建设性质'所有文本的元素('xpath', '//label[contains(text(),"建设性质")]/parent::li/div')成功。
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[contains(text(),"建设性质")]/parent::li/div')元素文本值成功
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="工程规模："]/parent::li//li')元素可见,耗时0.048749685287475586
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_elements [ line:223 ] 查找获取工程规模字段数量的元素('xpath', '//label[text()="工程规模："]/parent::li//li')成功。
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_list_length [ line:246 ] 获取('xpath', '//label[text()="工程规模："]/parent::li//li')元素属性值成功
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="工程规模："]/parent::li//li/span[1]')元素可见,耗时0.046019554138183594
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_element [ line:73 ] 查找获取工程规模唯一字段文本值的元素('xpath', '//label[text()="工程规模："]/parent::li//li/span[1]')成功。
+ Tue, 01 Sep 2020 21:21:16  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[text()="工程规模："]/parent::li//li/span[1]')元素文本值成功
+ Tue, 01 Sep 2020 21:21:17  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="工程投资："]/parent::li//li')元素可见,耗时0.08989191055297852
+ Tue, 01 Sep 2020 21:21:17  INFO basepage.py get_elements [ line:223 ] 查找获取工程投资字段数量的元素('xpath', '//label[text()="工程投资："]/parent::li//li')成功。
+ Tue, 01 Sep 2020 21:21:17  INFO basepage.py get_list_length [ line:246 ] 获取('xpath', '//label[text()="工程投资："]/parent::li//li')元素属性值成功
+ Tue, 01 Sep 2020 21:21:17  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="工程投资："]/parent::li//ul')元素可见,耗时0.056150197982788086
+ Tue, 01 Sep 2020 21:21:17  INFO basepage.py get_element [ line:73 ] 查找获取工程投资文本值的元素('xpath', '//label[text()="工程投资："]/parent::li//ul')成功。
+ Tue, 01 Sep 2020 21:21:17  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[text()="工程投资："]/parent::li//ul')元素文本值成功
+ Tue, 01 Sep 2020 21:21:19  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时1.0117037296295166
+ Tue, 01 Sep 2020 21:21:19  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 01 Sep 2020 21:21:19  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 21:21:19  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.05067753791809082
+ Tue, 01 Sep 2020 21:21:19  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Tue, 01 Sep 2020 21:21:20  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 21:21:22  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="nodatap"]')元素可见,耗时1.4351813793182373
+ Tue, 01 Sep 2020 21:21:22  INFO basepage.py get_element [ line:73 ] 查找项目台账为空提示语的元素('xpath', '//div[@class="nodatap"]')成功。
+ Tue, 01 Sep 2020 21:21:22  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//div[@class="nodatap"]')元素文本值成功
+ Tue, 01 Sep 2020 21:21:22  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"添加项目")]')元素可见,耗时0.08551526069641113
+ Tue, 01 Sep 2020 21:21:22  INFO basepage.py get_element [ line:73 ] 查找首页_点击'添加项目'的元素('xpath', '//span[contains(text(),"添加项目")]')成功。
+ Tue, 01 Sep 2020 21:21:22  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"添加项目")]')元素点击成功
+ Tue, 01 Sep 2020 21:21:23  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"项目名称")]/following-sibling::div//input')元素可见,耗时0.76003098487854
+ Tue, 01 Sep 2020 21:21:23  INFO basepage.py get_element [ line:73 ] 查找输入项目名称的元素('xpath', '//label[contains(text(),"项目名称")]/following-sibling::div//input')成功。
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py input_text [ line:97 ] 向('xpath', '//label[contains(text(),"项目名称")]/following-sibling::div//input')元素输入测试_光伏工程成功
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"项目编号")]/following-sibling::div//input')元素可见,耗时0.02892160415649414
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py get_element [ line:73 ] 查找输入项目编号的元素('xpath', '//label[contains(text(),"项目编号")]/following-sibling::div//input')成功。
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py input_text [ line:97 ] 向('xpath', '//label[contains(text(),"项目编号")]/following-sibling::div//input')元素输入003成功
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素可见,耗时0.04688239097595215
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py get_element [ line:73 ] 查找选择项目类型的元素('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')成功。
+ Tue, 01 Sep 2020 21:21:24  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:25  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="光伏工程"]/parent::li')元素可见,耗时0.07893705368041992
+ Tue, 01 Sep 2020 21:21:25  INFO basepage.py get_element [ line:73 ] 查找项目类型选择'光伏工程'的元素('xpath', '//a[@title="光伏工程"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:25  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="光伏工程"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:26  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="分布式"]/span')元素可见,耗时0.08483576774597168
+ Tue, 01 Sep 2020 21:21:26  INFO basepage.py get_element [ line:73 ] 查找工程类型选择'分布式'的元素('xpath', '//label[text()="分布式"]/span')成功。
+ Tue, 01 Sep 2020 21:21:26  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="分布式"]/span')元素点击成功
+ Tue, 01 Sep 2020 21:21:27  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"设计阶段")]/parent::li/div')元素可见,耗时0.0832357406616211
+ Tue, 01 Sep 2020 21:21:27  INFO basepage.py get_element [ line:73 ] 查找点击设计阶段下拉框的元素('xpath', '//label[contains(text(),"设计阶段")]/parent::li/div')成功。
+ Tue, 01 Sep 2020 21:21:27  INFO basepage.py click [ line:141 ] 向('xpath', '//label[contains(text(),"设计阶段")]/parent::li/div')元素点击成功
+ Tue, 01 Sep 2020 21:21:28  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="施工图"]/parent::li')元素可见,耗时0.09474039077758789
+ Tue, 01 Sep 2020 21:21:28  INFO basepage.py get_element [ line:73 ] 查找设计阶段选择'施工图'的元素('xpath', '//a[@title="施工图"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:28  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="施工图"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:28  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"电压等级")]/parent::li/div')元素可见,耗时0.04789566993713379
+ Tue, 01 Sep 2020 21:21:28  INFO basepage.py get_element [ line:73 ] 查找点击'电压等级'下拉框的元素('xpath', '//label[contains(text(),"电压等级")]/parent::li/div')成功。
+ Tue, 01 Sep 2020 21:21:28  INFO basepage.py click [ line:141 ] 向('xpath', '//label[contains(text(),"电压等级")]/parent::li/div')元素点击成功
+ Tue, 01 Sep 2020 21:21:29  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="35kV"]/parent::li')元素可见,耗时0.09174489974975586
+ Tue, 01 Sep 2020 21:21:29  INFO basepage.py get_element [ line:73 ] 查找电压等级选择'35kv'的元素('xpath', '//a[@title="35kV"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:29  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="35kV"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:30  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="光伏区建设"]/span')元素可见,耗时0.09174442291259766
+ Tue, 01 Sep 2020 21:21:30  INFO basepage.py get_element [ line:73 ] 查找建设性质选择'光伏区建设'的元素('xpath', '//label[text()="光伏区建设"]/span')成功。
+ Tue, 01 Sep 2020 21:21:30  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="光伏区建设"]/span')元素点击成功
+ Tue, 01 Sep 2020 21:21:31  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"角色模板")]/parent::li/div')元素可见,耗时0.09224390983581543
+ Tue, 01 Sep 2020 21:21:31  INFO basepage.py get_element [ line:73 ] 查找点击'角色模板'下拉框的元素('xpath', '//label[contains(text(),"角色模板")]/parent::li/div')成功。
+ Tue, 01 Sep 2020 21:21:31  INFO basepage.py click [ line:141 ] 向('xpath', '//label[contains(text(),"角色模板")]/parent::li/div')元素点击成功
+ Tue, 01 Sep 2020 21:21:31  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="恒华光伏工程"]/parent::li')元素可见,耗时0.03487443923950195
+ Tue, 01 Sep 2020 21:21:31  INFO basepage.py get_element [ line:73 ] 查找角色模板选择'恒华光伏工程'的元素('xpath', '//a[@title="恒华光伏工程"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:32  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="恒华光伏工程"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:32  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="选择成员"]')元素可见,耗时0.08822441101074219
+ Tue, 01 Sep 2020 21:21:32  INFO basepage.py get_element [ line:73 ] 查找选择成员的元素('xpath', '//button[text()="选择成员"]')成功。
+ Tue, 01 Sep 2020 21:21:33  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="选择成员"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:33  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//li[text()="总工"]')元素可见,耗时0.08399009704589844
+ Tue, 01 Sep 2020 21:21:33  INFO basepage.py get_element [ line:73 ] 查找点击'总工'的元素('xpath', '//li[text()="总工"]')成功。
+ Tue, 01 Sep 2020 21:21:33  INFO basepage.py click [ line:141 ] 向('xpath', '//li[text()="总工"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:34  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="添加成员"]/parent::li')元素可见,耗时0.08880877494812012
+ Tue, 01 Sep 2020 21:21:34  INFO basepage.py get_element [ line:73 ] 查找点击'添加成员'的元素('xpath', '//span[text()="添加成员"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:35  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="添加成员"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:36  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@id="team-tree1_7_check"]')元素可见,耗时0.103973388671875
+ Tue, 01 Sep 2020 21:21:36  INFO basepage.py get_element [ line:73 ] 查找勾选'海清'的元素('xpath', '//span[@id="team-tree1_7_check"]')成功。
+ Tue, 01 Sep 2020 21:21:36  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@id="team-tree1_7_check"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:37  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.09178876876831055
+ Tue, 01 Sep 2020 21:21:37  INFO basepage.py get_element [ line:73 ] 查找确定的元素('xpath', '//button[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:21:37  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:37  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="添加成员"]/parent::li')元素可见,耗时0.05266928672790527
+ Tue, 01 Sep 2020 21:21:38  INFO basepage.py get_element [ line:73 ] 查找点击添加人员的元素('xpath', '//span[text()="添加成员"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:38  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="添加成员"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:39  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="searchId"]')元素可见,耗时0.09580159187316895
+ Tue, 01 Sep 2020 21:21:39  INFO basepage.py get_element [ line:73 ] 查找总工输入'张无忌'的元素('xpath', '//input[@id="searchId"]')成功。
+ Tue, 01 Sep 2020 21:21:43  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="searchId"]')元素输入张无忌成功
+ Tue, 01 Sep 2020 21:21:43  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="searchId"]')元素可见,耗时0.02393651008605957
+ Tue, 01 Sep 2020 21:21:43  INFO basepage.py get_element [ line:73 ] 查找的元素('xpath', '//input[@id="searchId"]')成功。
+ Tue, 01 Sep 2020 21:21:45  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="searchId"]')元素输入成功
+ Tue, 01 Sep 2020 21:21:46  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="张无忌"]/parent::a/parent::li/span[@class="button chk checkbox_false_full"]')元素可见,耗时0.060311079025268555
+ Tue, 01 Sep 2020 21:21:46  INFO basepage.py get_element [ line:73 ] 查找勾选'张无忌'的元素('xpath', '//span[text()="张无忌"]/parent::a/parent::li/span[@class="button chk checkbox_false_full"]')成功。
+ Tue, 01 Sep 2020 21:21:46  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="张无忌"]/parent::a/parent::li/span[@class="button chk checkbox_false_full"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:46  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.06723308563232422
+ Tue, 01 Sep 2020 21:21:46  INFO basepage.py get_element [ line:73 ] 查找确定的元素('xpath', '//button[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:21:47  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:47  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//li[text()="设总"]')元素可见,耗时0.06580829620361328
+ Tue, 01 Sep 2020 21:21:47  INFO basepage.py get_element [ line:73 ] 查找点击'设总'的元素('xpath', '//li[text()="设总"]')成功。
+ Tue, 01 Sep 2020 21:21:47  INFO basepage.py click [ line:141 ] 向('xpath', '//li[text()="设总"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:48  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="添加成员"]/parent::li')元素可见,耗时0.0679926872253418
+ Tue, 01 Sep 2020 21:21:48  INFO basepage.py get_element [ line:73 ] 查找点击'添加成员'的元素('xpath', '//span[text()="添加成员"]/parent::li')成功。
+ Tue, 01 Sep 2020 21:21:49  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="添加成员"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 21:21:49  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@id="team-tree1_8_check"]')元素可见,耗时0.080169677734375
+ Tue, 01 Sep 2020 21:21:49  INFO basepage.py get_element [ line:73 ] 查找勾选'海若梦'的元素('xpath', '//span[@id="team-tree1_8_check"]')成功。
+ Tue, 01 Sep 2020 21:21:49  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@id="team-tree1_8_check"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:50  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.07660531997680664
+ Tue, 01 Sep 2020 21:21:50  INFO basepage.py get_element [ line:73 ] 查找确定的元素('xpath', '//button[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:21:50  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.07071518898010254
+ Tue, 01 Sep 2020 21:21:51  INFO basepage.py get_element [ line:73 ] 查找确定的元素('xpath', '//button[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:21:51  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="设置节点"]')元素可见,耗时0.08304286003112793
+ Tue, 01 Sep 2020 21:21:51  INFO basepage.py get_element [ line:73 ] 查找设置节点的元素('xpath', '//button[text()="设置节点"]')成功。
+ Tue, 01 Sep 2020 21:21:54  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="设置节点"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:54  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@id="team-tree3_2_check"]')元素可见,耗时0.0959920883178711
+ Tue, 01 Sep 2020 21:21:54  INFO basepage.py get_element [ line:73 ] 查找勾选'01-设计输入资料'的元素('xpath', '//span[@id="team-tree3_2_check"]')成功。
+ Tue, 01 Sep 2020 21:21:55  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@id="team-tree3_2_check"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:55  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@id="team-tree3_2_a"]//b')元素可见,耗时0.0986320972442627
+ Tue, 01 Sep 2020 21:21:55  INFO basepage.py get_element [ line:73 ] 查找选择的元素('xpath', '//a[@id="team-tree3_2_a"]//b')成功。
+ Tue, 01 Sep 2020 21:21:56  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@id="team-tree3_2_a"]//b')元素点击成功
+ Tue, 01 Sep 2020 21:21:56  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@id="team-tree1_3_check"]')元素可见,耗时0.07928037643432617
+ Tue, 01 Sep 2020 21:21:56  INFO basepage.py get_element [ line:73 ] 查找选择'张无忌'的元素('xpath', '//span[@id="team-tree1_3_check"]')成功。
+ Tue, 01 Sep 2020 21:21:57  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@id="team-tree1_3_check"]')元素点击成功
+ Tue, 01 Sep 2020 21:21:57  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.06459283828735352
+ Tue, 01 Sep 2020 21:21:57  INFO basepage.py get_element [ line:73 ] 查找确定的元素('xpath', '//button[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:21:59  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:00  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.06750202178955078
+ Tue, 01 Sep 2020 21:22:00  INFO basepage.py get_element [ line:73 ] 查找确定的元素('xpath', '//button[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:22:00  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:00  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="容量："]/parent::li//input')元素可见,耗时0.04546403884887695
+ Tue, 01 Sep 2020 21:22:00  INFO basepage.py get_element [ line:73 ] 查找清除默认文本值的元素('xpath', '//span[text()="容量："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//span[text()="容量："]/parent::li//input')内容成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="容量："]/parent::li//input')元素可见,耗时0.02194070816040039
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找工程规模容量输入100的元素('xpath', '//span[text()="容量："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py input_text [ line:97 ] 向('xpath', '//span[text()="容量："]/parent::li//input')元素输入100成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="勘察费："]/parent::li//input')元素可见,耗时0.03293585777282715
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找清除默认文本值的元素('xpath', '//span[text()="勘察费："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//span[text()="勘察费："]/parent::li//input')内容成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="勘察费："]/parent::li//input')元素可见,耗时0.022461652755737305
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找勘察费输入101的元素('xpath', '//span[text()="勘察费："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py input_text [ line:97 ] 向('xpath', '//span[text()="勘察费："]/parent::li//input')元素输入101成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="设计费："]/parent::li//input')元素可见,耗时0.028912067413330078
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找清除默认文本值的元素('xpath', '//span[text()="设计费："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//span[text()="设计费："]/parent::li//input')内容成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="设计费："]/parent::li//input')元素可见,耗时0.028921842575073242
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找设计费输入102的元素('xpath', '//span[text()="设计费："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py input_text [ line:97 ] 向('xpath', '//span[text()="设计费："]/parent::li//input')元素输入102成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="总投资："]/parent::li//input')元素可见,耗时0.029174089431762695
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找清除默认文本值的元素('xpath', '//span[text()="总投资："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//span[text()="总投资："]/parent::li//input')内容成功
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="总投资："]/parent::li//input')元素可见,耗时0.02892327308654785
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py get_element [ line:73 ] 查找总投资输入103的元素('xpath', '//span[text()="总投资："]/parent::li//input')成功。
+ Tue, 01 Sep 2020 21:22:01  INFO basepage.py input_text [ line:97 ] 向('xpath', '//span[text()="总投资："]/parent::li//input')元素输入103成功
+ Tue, 01 Sep 2020 21:22:02  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="设计校审"]/span')元素可见,耗时0.027448415756225586
+ Tue, 01 Sep 2020 21:22:02  INFO basepage.py get_element [ line:73 ] 查找勾选设计校审的元素('xpath', '//label[text()="设计校审"]/span')成功。
+ Tue, 01 Sep 2020 21:22:02  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="设计校审"]/span')元素点击成功
+ Tue, 01 Sep 2020 21:22:03  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@id="children-span"]/div[@class="su_form_control su_select_box"]')元素可见,耗时0.08824706077575684
+ Tue, 01 Sep 2020 21:22:03  INFO basepage.py get_element [ line:73 ] 查找点击标准校审级别的元素('xpath', '//div[@id="children-span"]/div[@class="su_form_control su_select_box"]')成功。
+ Tue, 01 Sep 2020 21:22:03  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@id="children-span"]/div[@class="su_form_control su_select_box"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:03  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="1级"]')元素可见,耗时0.0834510326385498
+ Tue, 01 Sep 2020 21:22:03  INFO basepage.py get_element [ line:73 ] 查找选择1级别的元素('xpath', '//a[@title="1级"]')成功。
+ Tue, 01 Sep 2020 21:22:04  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="1级"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:04  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="可低于标准级别"]/span')元素可见,耗时0.08927297592163086
+ Tue, 01 Sep 2020 21:22:04  INFO basepage.py get_element [ line:73 ] 查找勾选可低于标准级别的元素('xpath', '//label[text()="可低于标准级别"]/span')成功。
+ Tue, 01 Sep 2020 21:22:04  INFO basepage.py click_by_js [ line:163 ] 向('xpath', '//label[text()="可低于标准级别"]/span')元素点击成功
+ Tue, 01 Sep 2020 21:22:05  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="可跳过会签阶段"]/span')元素可见,耗时0.08976030349731445
+ Tue, 01 Sep 2020 21:22:05  INFO basepage.py get_element [ line:73 ] 查找勾选可跳过会签阶段的元素('xpath', '//label[text()="可跳过会签阶段"]/span')成功。
+ Tue, 01 Sep 2020 21:22:05  INFO basepage.py click_by_js [ line:163 ] 向('xpath', '//label[text()="可跳过会签阶段"]/span')元素点击成功
+ Tue, 01 Sep 2020 21:22:06  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="—"]/preceding-sibling::div')元素可见,耗时0.08349394798278809
+ Tue, 01 Sep 2020 21:22:06  INFO basepage.py get_element [ line:73 ] 查找开始时间的元素('xpath', '//span[text()="—"]/preceding-sibling::div')成功。
+ Tue, 01 Sep 2020 21:22:06  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="—"]/preceding-sibling::div')元素点击成功
+ Tue, 01 Sep 2020 21:22:06  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="—"]/preceding-sibling::div//span[text()="确定"]')元素可见,耗时0.09275031089782715
+ Tue, 01 Sep 2020 21:22:06  INFO basepage.py get_element [ line:73 ] 查找确定时间的元素('xpath', '//span[text()="—"]/preceding-sibling::div//span[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:22:07  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="—"]/preceding-sibling::div//span[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:07  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="—"]/following-sibling::div')元素可见,耗时0.09670901298522949
+ Tue, 01 Sep 2020 21:22:07  INFO basepage.py get_element [ line:73 ] 查找结束时间的元素('xpath', '//span[text()="—"]/following-sibling::div')成功。
+ Tue, 01 Sep 2020 21:22:08  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="—"]/following-sibling::div')元素点击成功
+ Tue, 01 Sep 2020 21:22:08  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="—"]/following-sibling::div//span[text()="确定"]')元素可见,耗时0.08670711517333984
+ Tue, 01 Sep 2020 21:22:08  INFO basepage.py get_element [ line:73 ] 查找确定时间的元素('xpath', '//span[text()="—"]/following-sibling::div//span[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:22:08  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="—"]/following-sibling::div//span[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:09  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="监管人："]/following-sibling::button')元素可见,耗时0.08618593215942383
+ Tue, 01 Sep 2020 21:22:09  INFO basepage.py get_element [ line:73 ] 查找选择监管人的元素('xpath', '//label[text()="监管人："]/following-sibling::button')成功。
+ Tue, 01 Sep 2020 21:22:10  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="监管人："]/following-sibling::button')元素点击成功
+ Tue, 01 Sep 2020 21:22:10  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="徐蕾"]/../../span[@class="button chk checkbox_false_full"]')元素可见,耗时0.09170913696289062
+ Tue, 01 Sep 2020 21:22:10  INFO basepage.py get_element [ line:73 ] 查找勾选徐蕾的元素('xpath', '//span[text()="徐蕾"]/../../span[@class="button chk checkbox_false_full"]')成功。
+ Tue, 01 Sep 2020 21:22:10  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="徐蕾"]/../../span[@class="button chk checkbox_false_full"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:11  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="popup"]//span[text()="确定"]')元素可见,耗时0.08569145202636719
+ Tue, 01 Sep 2020 21:22:11  INFO basepage.py get_element [ line:73 ] 查找点击确定按钮的元素('xpath', '//div[@class="popup"]//span[text()="确定"]')成功。
+ Tue, 01 Sep 2020 21:22:11  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@class="popup"]//span[text()="确定"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:12  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="创建"]')元素可见,耗时0.08853673934936523
+ Tue, 01 Sep 2020 21:22:12  INFO basepage.py get_element [ line:73 ] 查找创建的元素('xpath', '//button[text()="创建"]')成功。
+ Tue, 01 Sep 2020 21:22:12  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="创建"]')元素点击成功
+ Tue, 01 Sep 2020 21:22:27  ERROR basepage.py wait_elevisible [ line:34 ] 等待('xpath', '//div[@class="pjlist-box mt-10"]')元素可见超时
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Python\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "D:\Python\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Python\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Common\basepage.py", line 32, in wait_elevisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 80, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 171, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\Python\lib\site-packages\urllib3\poolmanager.py", line 336, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "D:\Python\lib\site-packages\urllib3\util\retry.py", line 403, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\Python\lib\site-packages\urllib3\packages\six.py", line 734, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Python\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "D:\Python\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Python\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))

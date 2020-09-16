@@ -1,0 +1,57 @@
+ Fri, 21 Aug 2020 14:31:49  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.46775054931640625
+ Fri, 21 Aug 2020 14:31:49  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Fri, 21 Aug 2020 14:31:49  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Fri, 21 Aug 2020 14:31:49  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"绩效管理")]/parent::a')元素可见,耗时0.02396845817565918
+ Fri, 21 Aug 2020 14:31:49  INFO basepage.py get_element [ line:73 ] 查找点击绩效管理的元素('xpath', '//span[contains(text(),"绩效管理")]/parent::a')成功。
+ Fri, 21 Aug 2020 14:31:49  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"绩效管理")]/parent::a')元素点击成功
+ Fri, 21 Aug 2020 14:31:50  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//tr[1]//span[contains(text(),"线路工程")]/parent::td')元素可见,耗时0.5993969440460205
+ Fri, 21 Aug 2020 14:31:50  INFO basepage.py get_element [ line:73 ] 查找点击线路工程名称的元素('xpath', '//tr[1]//span[contains(text(),"线路工程")]/parent::td')成功。
+ Fri, 21 Aug 2020 14:31:51  INFO basepage.py click [ line:141 ] 向('xpath', '//tr[1]//span[contains(text(),"线路工程")]/parent::td')元素点击成功
+ Fri, 21 Aug 2020 14:31:51  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="发起审批"]')元素可见,耗时0.09171581268310547
+ Fri, 21 Aug 2020 14:31:51  INFO basepage.py get_element [ line:73 ] 查找点击发起审批的元素('xpath', '//span[text()="发起审批"]')成功。
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="发起审批"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="预支"]/span')元素可见,耗时0.019527673721313477
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py get_element [ line:73 ] 查找点击预支勾选框的元素('xpath', '//label[text()="预支"]/span')成功。
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="预支"]/span')元素点击成功
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//b[text()="提报比例："]/following-sibling::input')元素可见,耗时0.021946191787719727
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py get_element [ line:73 ] 查找清空'填报比例输入框'的元素('xpath', '//b[text()="提报比例："]/following-sibling::input')成功。
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py clear_text [ line:119 ] 清除('xpath', '//b[text()="提报比例："]/following-sibling::input')内容成功
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//b[text()="提报比例："]/following-sibling::input')元素可见,耗时0.017950773239135742
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py get_element [ line:73 ] 查找输入提报比例的元素('xpath', '//b[text()="提报比例："]/following-sibling::input')成功。
+ Fri, 21 Aug 2020 14:31:52  INFO basepage.py input_text [ line:97 ] 向('xpath', '//b[text()="提报比例："]/following-sibling::input')元素输入40成功
+ Fri, 21 Aug 2020 14:31:53  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="box medium_box box1 por"][2]//span[text()="确定"]')元素可见,耗时0.03291177749633789
+ Fri, 21 Aug 2020 14:31:53  INFO basepage.py get_element [ line:73 ] 查找点击确定的元素('xpath', '//div[@class="box medium_box box1 por"][2]//span[text()="确定"]')成功。
+ Fri, 21 Aug 2020 14:31:53  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@class="box medium_box box1 por"][2]//span[text()="确定"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:53  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//tr[@class][1]//td[2]/span')元素可见,耗时0.024663925170898438
+ Fri, 21 Aug 2020 14:31:53  INFO basepage.py get_element [ line:73 ] 查找点击提报比例按钮的元素('xpath', '//tr[@class][1]//td[2]/span')成功。
+ Fri, 21 Aug 2020 14:31:54  INFO basepage.py click [ line:141 ] 向('xpath', '//tr[@class][1]//td[2]/span')元素点击成功
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="编辑"]')元素可见,耗时0.5372171401977539
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py get_element [ line:73 ] 查找点击编辑按钮的元素('xpath', '//span[text()="编辑"]')成功。
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="编辑"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div//span[text()="恢复初始"]/following-sibling::span[text()="系数调整"]')元素可见,耗时0.02661895751953125
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py get_element [ line:73 ] 查找点击系数调整按钮的元素('xpath', '//div//span[text()="恢复初始"]/following-sibling::span[text()="系数调整"]')成功。
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py click [ line:141 ] 向('xpath', '//div//span[text()="恢复初始"]/following-sibling::span[text()="系数调整"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@style="width: 600px;"]//input')元素可见,耗时0.021934986114501953
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py get_element [ line:73 ] 查找系数调整输入框输入10的元素('xpath', '//div[@style="width: 600px;"]//input')成功。
+ Fri, 21 Aug 2020 14:31:55  INFO basepage.py input_text [ line:97 ] 向('xpath', '//div[@style="width: 600px;"]//input')元素输入10成功
+ Fri, 21 Aug 2020 14:31:56  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@style="width: 600px;"]//span[text()="确定"]')元素可见,耗时0.03264045715332031
+ Fri, 21 Aug 2020 14:31:56  INFO basepage.py get_element [ line:73 ] 查找点击确定按钮的元素('xpath', '//div[@style="width: 600px;"]//span[text()="确定"]')成功。
+ Fri, 21 Aug 2020 14:31:56  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@style="width: 600px;"]//span[text()="确定"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:56  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="prompt-txt"]')元素可见,耗时0.01894974708557129
+ Fri, 21 Aug 2020 14:31:56  INFO basepage.py get_element [ line:73 ] 查找获取提示语的元素('xpath', '//div[@class="prompt-txt"]')成功。
+ Fri, 21 Aug 2020 14:31:56  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//div[@class="prompt-txt"]')元素文本值成功
+ Fri, 21 Aug 2020 14:31:57  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@style="width: 600px;"]//span[text()="取消"]')元素可见,耗时0.03264927864074707
+ Fri, 21 Aug 2020 14:31:57  INFO basepage.py get_element [ line:73 ] 查找点击取消按钮的元素('xpath', '//div[@style="width: 600px;"]//span[text()="取消"]')成功。
+ Fri, 21 Aug 2020 14:31:57  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@style="width: 600px;"]//span[text()="取消"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:57  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div//span[text()="恢复初始"]/following-sibling::span[text()="退出编辑"]')元素可见,耗时0.02568793296813965
+ Fri, 21 Aug 2020 14:31:57  INFO basepage.py get_element [ line:73 ] 查找点击退出编辑按钮的元素('xpath', '//div//span[text()="恢复初始"]/following-sibling::span[text()="退出编辑"]')成功。
+ Fri, 21 Aug 2020 14:31:57  INFO basepage.py click [ line:141 ] 向('xpath', '//div//span[text()="恢复初始"]/following-sibling::span[text()="退出编辑"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:58  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="提交审批"]')元素可见,耗时0.0216825008392334
+ Fri, 21 Aug 2020 14:31:58  INFO basepage.py get_element [ line:73 ] 查找点击提交审批的元素('xpath', '//span[text()="提交审批"]')成功。
+ Fri, 21 Aug 2020 14:31:58  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="提交审批"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:58  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="韩正"]/preceding-sibling::span[@class="button chk radio_false_full"]')元素可见,耗时0.03569650650024414
+ Fri, 21 Aug 2020 14:31:58  INFO basepage.py get_element [ line:73 ] 查找勾选韩正的元素('xpath', '//a[@title="韩正"]/preceding-sibling::span[@class="button chk radio_false_full"]')成功。
+ Fri, 21 Aug 2020 14:31:59  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="韩正"]/preceding-sibling::span[@class="button chk radio_false_full"]')元素点击成功
+ Fri, 21 Aug 2020 14:31:59  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="frameView-item txt-c"]//span[text()="确定"]')元素可见,耗时0.019580841064453125
+ Fri, 21 Aug 2020 14:31:59  INFO basepage.py get_element [ line:73 ] 查找点击确定的元素('xpath', '//div[@class="frameView-item txt-c"]//span[text()="确定"]')成功。
+ Fri, 21 Aug 2020 14:31:59  INFO basepage.py click [ line:141 ] 向('xpath', '//div[@class="frameView-item txt-c"]//span[text()="确定"]')元素点击成功

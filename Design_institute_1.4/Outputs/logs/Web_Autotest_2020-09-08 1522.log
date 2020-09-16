@@ -1,0 +1,33 @@
+ Tue, 08 Sep 2020 15:22:45  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.2788574695587158
+ Tue, 08 Sep 2020 15:22:45  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 08 Sep 2020 15:22:45  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Tue, 08 Sep 2020 15:22:46  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.023560523986816406
+ Tue, 08 Sep 2020 15:22:46  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Tue, 08 Sep 2020 15:22:46  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Tue, 08 Sep 2020 15:22:47  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@class="c-main"][1]')元素可见,耗时0.549142599105835
+ Tue, 08 Sep 2020 15:22:47  INFO basepage.py get_element [ line:73 ] 查找列表页点击进度百分比的元素('xpath', '//span[@class="c-main"][1]')成功。
+ Tue, 08 Sep 2020 15:22:47  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@class="c-main"][1]')元素点击成功
+ Tue, 08 Sep 2020 15:22:48  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="显示“进度占比”"]')元素可见,耗时0.8098311424255371
+ Tue, 08 Sep 2020 15:22:48  INFO basepage.py get_element [ line:73 ] 查找获取'显示进度占比'元素的元素('xpath', '//span[text()="显示“进度占比”"]')成功。
+ Tue, 08 Sep 2020 15:22:48  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//span[text()="显示“进度占比”"]')元素文本值成功
+ Tue, 08 Sep 2020 15:22:49  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.019947290420532227
+ Tue, 08 Sep 2020 15:22:49  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 08 Sep 2020 15:22:49  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Tue, 08 Sep 2020 15:22:49  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.017954111099243164
+ Tue, 08 Sep 2020 15:22:49  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Tue, 08 Sep 2020 15:22:49  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Tue, 08 Sep 2020 15:22:50  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[@class="c-main"][1]')元素可见,耗时0.031914710998535156
+ Tue, 08 Sep 2020 15:22:50  INFO basepage.py get_element [ line:73 ] 查找列表页点击进度百分比的元素('xpath', '//span[@class="c-main"][1]')成功。
+ Tue, 08 Sep 2020 15:22:50  INFO basepage.py click [ line:141 ] 向('xpath', '//span[@class="c-main"][1]')元素点击成功
+ Tue, 08 Sep 2020 15:23:55  ERROR basepage.py wait_elevisible [ line:34 ] 等待('xpath', '//span[@class="sufont-check"]')元素可见超时
+Traceback (most recent call last):
+  File "C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Common\basepage.py", line 32, in wait_elevisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Tue, 08 Sep 2020 15:23:55  INFO basepage.py do_save_screenshot [ line:261 ] 网页截图成功，存储路径为C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Outputs/screenshots/勾选'显示进度占比'框_20200908152355.png
+ Tue, 08 Sep 2020 15:23:56  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.041887521743774414
+ Tue, 08 Sep 2020 15:23:56  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 08 Sep 2020 15:23:56  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功

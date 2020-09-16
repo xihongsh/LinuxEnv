@@ -1,0 +1,3 @@
+ Fri, 21 Aug 2020 10:04:38  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="退出"]/parent::a')元素可见,耗时0.45977139472961426
+ Fri, 21 Aug 2020 10:04:38  INFO basepage.py get_element [ line:73 ] 查找退出系统的元素('xpath', '//span[text()="退出"]/parent::a')成功。
+ Fri, 21 Aug 2020 10:04:38  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="退出"]/parent::a')元素点击成功

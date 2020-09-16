@@ -1,0 +1,221 @@
+ Fri, 21 Aug 2020 16:02:43  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DD01C18>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/element
+ Fri, 21 Aug 2020 16:02:45  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBB7080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/element
+ Fri, 21 Aug 2020 16:02:47  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBB72B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/element
+ Fri, 21 Aug 2020 16:02:49  ERROR basepage.py wait_elevisible [ line:34 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见超时
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "D:\Python\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "D:\Python\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Python\lib\http\client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "D:\Python\lib\http\client.py", line 964, in send
+    self.connect()
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 172, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002126DBB74A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Common\basepage.py", line 32, in wait_elevisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 80, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 171, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\Python\lib\site-packages\urllib3\poolmanager.py", line 336, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "D:\Python\lib\site-packages\urllib3\util\retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=50013): Max retries exceeded with url: /session/e3895f64d6b920b7d870f40ea58a3ff9/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBB74A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+ Fri, 21 Aug 2020 16:02:51  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBB7278>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/screenshot
+ Fri, 21 Aug 2020 16:02:53  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBB7DA0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/screenshot
+ Fri, 21 Aug 2020 16:02:55  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE9908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/screenshot
+ Fri, 21 Aug 2020 16:02:57  ERROR basepage.py do_save_screenshot [ line:259 ] 网页截图操作失败
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "D:\Python\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "D:\Python\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Python\lib\http\client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "D:\Python\lib\http\client.py", line 964, in send
+    self.connect()
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 172, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002126DBB74A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Common\basepage.py", line 32, in wait_elevisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 80, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 171, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\Python\lib\site-packages\urllib3\poolmanager.py", line 336, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "D:\Python\lib\site-packages\urllib3\util\retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=50013): Max retries exceeded with url: /session/e3895f64d6b920b7d870f40ea58a3ff9/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBB74A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "D:\Python\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "D:\Python\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Python\lib\http\client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Python\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "D:\Python\lib\http\client.py", line 964, in send
+    self.connect()
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "D:\Python\lib\site-packages\urllib3\connection.py", line 172, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002126DBE9A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Common\basepage.py", line 257, in do_save_screenshot
+    self.driver.save_screenshot(file)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 76, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 97, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\Python\lib\site-packages\urllib3\poolmanager.py", line 336, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 765, in urlopen
+    **response_kw
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "D:\Python\lib\site-packages\urllib3\util\retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=50013): Max retries exceeded with url: /session/e3895f64d6b920b7d870f40ea58a3ff9/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE9A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+ Fri, 21 Aug 2020 16:02:59  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE9A58>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/refresh
+ Fri, 21 Aug 2020 16:03:01  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE9C50>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/refresh
+ Fri, 21 Aug 2020 16:03:03  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE9DD8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9/refresh
+ Fri, 21 Aug 2020 16:03:07  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DD17EB8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9
+ Fri, 21 Aug 2020 16:03:09  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE9F28>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9
+ Fri, 21 Aug 2020 16:03:11  WARNING connectionpool.py urlopen [ line:750 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002126DBE97F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/e3895f64d6b920b7d870f40ea58a3ff9

@@ -1,0 +1,120 @@
+ Tue, 01 Sep 2020 22:03:13  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.7133128643035889
+ Tue, 01 Sep 2020 22:03:13  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 01 Sep 2020 22:03:13  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 22:03:14  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.028874874114990234
+ Tue, 01 Sep 2020 22:03:14  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Tue, 01 Sep 2020 22:03:14  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 22:03:14  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"添加项目")]')元素可见,耗时0.030888080596923828
+ Tue, 01 Sep 2020 22:03:14  INFO basepage.py get_element [ line:73 ] 查找首页_点击'添加项目'的元素('xpath', '//span[contains(text(),"添加项目")]')成功。
+ Tue, 01 Sep 2020 22:03:14  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"添加项目")]')元素点击成功
+ Tue, 01 Sep 2020 22:03:15  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素可见,耗时0.16749334335327148
+ Tue, 01 Sep 2020 22:03:15  INFO basepage.py get_element [ line:73 ] 查找选择项目类型的元素('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')成功。
+ Tue, 01 Sep 2020 22:03:15  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素点击成功
+ Tue, 01 Sep 2020 22:03:16  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="水利设计工程"]/parent::li')元素可见,耗时0.05781364440917969
+ Tue, 01 Sep 2020 22:03:16  INFO basepage.py get_element [ line:73 ] 查找项目类型选择'水利设计'的元素('xpath', '//a[@title="水利设计工程"]/parent::li')成功。
+ Tue, 01 Sep 2020 22:03:16  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="水利设计工程"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"工程类型")]/following-sibling::div')元素可见,耗时0.08344864845275879
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element [ line:73 ] 查找获取工程类型选项的元素('xpath', '//label[contains(text(),"工程类型")]/following-sibling::div')成功。
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[contains(text(),"工程类型")]/following-sibling::div')元素文本值成功
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"建设性质")]/following-sibling::div')元素可见,耗时0.08800458908081055
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element [ line:73 ] 查找获取建设性质选项的元素('xpath', '//label[contains(text(),"建设性质")]/following-sibling::div')成功。
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[contains(text(),"建设性质")]/following-sibling::div')元素文本值成功
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="工程规模："]/following-sibling::div//span')元素可见,耗时0.06898283958435059
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element [ line:73 ] 查找获取工程规模文本框的元素('xpath', '//label[text()="工程规模："]/following-sibling::div//span')成功。
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[text()="工程规模："]/following-sibling::div//span')元素文本值成功
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="工程投资："]/following-sibling::div//span')元素可见,耗时0.056809425354003906
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element [ line:73 ] 查找获取工程投资文本框的元素('xpath', '//label[text()="工程投资："]/following-sibling::div//span')成功。
+ Tue, 01 Sep 2020 22:03:17  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[text()="工程投资："]/following-sibling::div//span')元素文本值成功
+ Tue, 01 Sep 2020 22:03:19  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.493105411529541
+ Tue, 01 Sep 2020 22:03:19  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Tue, 01 Sep 2020 22:03:19  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 22:03:19  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.08957338333129883
+ Tue, 01 Sep 2020 22:03:19  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Tue, 01 Sep 2020 22:03:20  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Tue, 01 Sep 2020 22:03:21  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="nodatap"]')元素可见,耗时1.2854030132293701
+ Tue, 01 Sep 2020 22:03:21  INFO basepage.py get_element [ line:73 ] 查找项目台账为空提示语的元素('xpath', '//div[@class="nodatap"]')成功。
+ Tue, 01 Sep 2020 22:03:21  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//div[@class="nodatap"]')元素文本值成功
+ Tue, 01 Sep 2020 22:03:22  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"添加项目")]')元素可见,耗时0.07251334190368652
+ Tue, 01 Sep 2020 22:03:22  INFO basepage.py get_element [ line:73 ] 查找首页_点击'添加项目'的元素('xpath', '//span[contains(text(),"添加项目")]')成功。
+ Tue, 01 Sep 2020 22:03:22  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"添加项目")]')元素点击成功
+ Tue, 01 Sep 2020 22:03:23  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"项目名称")]/following-sibling::div//input')元素可见,耗时0.7218561172485352
+ Tue, 01 Sep 2020 22:03:23  INFO basepage.py get_element [ line:73 ] 查找输入'项目名称'的元素('xpath', '//label[contains(text(),"项目名称")]/following-sibling::div//input')成功。
+ Tue, 01 Sep 2020 22:03:23  INFO basepage.py input_text [ line:97 ] 向('xpath', '//label[contains(text(),"项目名称")]/following-sibling::div//input')元素输入测试_水利设计工程成功
+ Tue, 01 Sep 2020 22:03:23  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"项目编号")]/following-sibling::div//input')元素可见,耗时0.02792501449584961
+ Tue, 01 Sep 2020 22:03:23  INFO basepage.py get_element [ line:73 ] 查找输入'项目编号'的元素('xpath', '//label[contains(text(),"项目编号")]/following-sibling::div//input')成功。
+ Tue, 01 Sep 2020 22:03:23  INFO basepage.py input_text [ line:97 ] 向('xpath', '//label[contains(text(),"项目编号")]/following-sibling::div//input')元素输入006成功
+ Tue, 01 Sep 2020 22:03:24  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素可见,耗时0.06963849067687988
+ Tue, 01 Sep 2020 22:03:24  INFO basepage.py get_element [ line:73 ] 查找点击项目类型下拉框的元素('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')成功。
+ Tue, 01 Sep 2020 22:03:24  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素点击成功
+ Tue, 01 Sep 2020 22:03:24  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="水利设计工程"]/parent::li')元素可见,耗时0.07024025917053223
+ Tue, 01 Sep 2020 22:03:24  INFO basepage.py get_element [ line:73 ] 查找选择'水利设计工程'的元素('xpath', '//a[@title="水利设计工程"]/parent::li')成功。
+ Tue, 01 Sep 2020 22:03:25  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="水利设计工程"]/parent::li')元素点击成功
+ Tue, 01 Sep 2020 22:03:25  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="选择成员"]')元素可见,耗时0.08737397193908691
+ Tue, 01 Sep 2020 22:03:25  INFO basepage.py get_element [ line:73 ] 查找点击'选择成员'的元素('xpath', '//button[text()="选择成员"]')成功。
+ Tue, 01 Sep 2020 22:03:27  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="选择成员"]')元素点击成功
+ Tue, 01 Sep 2020 22:04:02  ERROR basepage.py wait_elevisible [ line:34 ] 等待('xpath', '//li[text()="征地移民专业负责人"]')元素可见超时
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Python\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "D:\Python\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Python\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\张少敬\Desktop\dhvirtest\Design_institute_1.4\Common\basepage.py", line 32, in wait_elevisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 80, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "D:\Python\lib\site-packages\urllib3\request.py", line 171, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\Python\lib\site-packages\urllib3\poolmanager.py", line 336, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "D:\Python\lib\site-packages\urllib3\util\retry.py", line 403, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\Python\lib\site-packages\urllib3\packages\six.py", line 734, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "D:\Python\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Python\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "D:\Python\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Python\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))

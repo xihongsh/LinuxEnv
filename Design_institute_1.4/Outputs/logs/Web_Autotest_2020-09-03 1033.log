@@ -1,0 +1,27 @@
+ Thu, 03 Sep 2020 10:33:42  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.5016586780548096
+ Thu, 03 Sep 2020 10:33:42  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Thu, 03 Sep 2020 10:33:42  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Thu, 03 Sep 2020 10:33:43  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.021941184997558594
+ Thu, 03 Sep 2020 10:33:43  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Thu, 03 Sep 2020 10:33:43  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Thu, 03 Sep 2020 10:33:43  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"添加项目")]')元素可见,耗时0.04984331130981445
+ Thu, 03 Sep 2020 10:33:43  INFO basepage.py get_element [ line:73 ] 查找首页_点击'添加项目'的元素('xpath', '//span[contains(text(),"添加项目")]')成功。
+ Thu, 03 Sep 2020 10:33:43  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"添加项目")]')元素点击成功
+ Thu, 03 Sep 2020 10:33:44  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素可见,耗时0.023969411849975586
+ Thu, 03 Sep 2020 10:33:44  INFO basepage.py get_element [ line:73 ] 查找选择项目类型的元素('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')成功。
+ Thu, 03 Sep 2020 10:33:44  INFO basepage.py click [ line:141 ] 向('xpath', '//label[text()="项目类型："]/following-sibling::div//div[@class="su_form_control su_select_box"]')元素点击成功
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//a[@title="变电工程"]/parent::li')元素可见,耗时0.019979476928710938
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py get_element [ line:73 ] 查找项目类型选择'变电工程'的元素('xpath', '//a[@title="变电工程"]/parent::li')成功。
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py click [ line:141 ] 向('xpath', '//a[@title="变电工程"]/parent::li')元素点击成功
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[contains(text(),"工程类型")]/following-sibling::div')元素可见,耗时0.5295815467834473
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py get_element [ line:73 ] 查找获取'工程类型'文本信息的元素('xpath', '//label[contains(text(),"工程类型")]/following-sibling::div')成功。
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[contains(text(),"工程类型")]/following-sibling::div')元素文本值成功
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//label[text()="建设性质："]/following-sibling::div')元素可见,耗时0.01894974708557129
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py get_element [ line:73 ] 查找获取'建设性质'所有文本的元素('xpath', '//label[text()="建设性质："]/following-sibling::div')成功。
+ Thu, 03 Sep 2020 10:33:45  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//label[text()="建设性质："]/following-sibling::div')元素文本值成功
+ Thu, 03 Sep 2020 10:33:46  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.13962578773498535
+ Thu, 03 Sep 2020 10:33:46  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Thu, 03 Sep 2020 10:33:46  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Thu, 03 Sep 2020 10:33:47  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.020943641662597656
+ Thu, 03 Sep 2020 10:33:47  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Thu, 03 Sep 2020 10:33:47  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功

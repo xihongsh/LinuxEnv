@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9684925-6fc6-4fc4-9a1c-7a7dcb198b37" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_b_create_planconsult_project.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_b_create_planconsult_project Coverage Results" MODIFIED="1581051436939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_2_pro_project_TestNetIndex_test_a_list_percen.coverage" NAME="Unittests for test_2_pro_project.TestNetIndex.test_a_list_percen Coverage Results" MODIFIED="1599556177772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_8_net_project_TestNetIndex.coverage" NAME="Unittests for test_8_net_project.TestNetIndex Coverage Results" MODIFIED="1599643677571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_project_TestIndex_test_3_upload_file.coverage" NAME="Unittests for test_project.TestIndex.test_3_upload_file Coverage Results" MODIFIED="1580824651570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_v_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_v_jixiao Coverage Results" MODIFIED="1586917623508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_f_faqiliucheng.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_f_faqiliucheng Coverage Results" MODIFIED="1581477583166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_c_guidang.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_c_guidang Coverage Results" MODIFIED="1582186671120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_b_check_pro_box.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_b_check_pro_box Coverage Results" MODIFIED="1594719475714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_2_pro_project_TestNetIndex.coverage" NAME="Unittests for test_2_pro_project.TestNetIndex Coverage Results" MODIFIED="1599557199076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_t_addrole_to_net.coverage" NAME="Unittests for test_net_project.TestIndex.test_t_addrole_to_net Coverage Results" MODIFIED="1580906712723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_net_project_TestIndex_test_d_addrole_to_net.coverage" NAME="Unittests for test_8_net_project.TestIndex.test_d_addrole_to_net Coverage Results" MODIFIED="1586767560361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_w_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_w_jixiao Coverage Results" MODIFIED="1586828250957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_zk_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_zk_create_route_project Coverage Results" MODIFIED="1591871926763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_m_create_netproject.coverage" NAME="Unittests for test_net_project.TestIndex.test_m_create_netproject Coverage Results" MODIFIED="1580904696673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_zf_deleteproject.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_zf_deleteproject Coverage Results" MODIFIED="1586429492822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_g_faqiliucheng.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_g_faqiliucheng Coverage Results" MODIFIED="1581404634610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_v_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_v_create_route_project Coverage Results" MODIFIED="1597974601117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_login_TestLogin_test_success.coverage" NAME="Unittests for test_login.TestLogin.test_success Coverage Results" MODIFIED="1580781015920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_c_zonggongri.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_c_zonggongri Coverage Results" MODIFIED="1580969405808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_q_faqiliucheng.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_q_faqiliucheng Coverage Results" MODIFIED="1582467559179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_k_restore_aerial_survey.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_k_restore_aerial_survey Coverage Results" MODIFIED="1594790501672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_a_switchnet.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_a_switchnet Coverage Results" MODIFIED="1599550547435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_a_check_planconsult_fields.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_a_check_planconsult_fields Coverage Results" MODIFIED="1580910787810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_5_waterconsult_project_TestWaterConsultIndex.coverage" NAME="Unittests for test_5_waterconsult_project.TestWaterConsultIndex Coverage Results" MODIFIED="1581573272118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex Coverage Results" MODIFIED="1581065741391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_4_addrole_to_net.coverage" NAME="Unittests for test_net_project.TestIndex.test_4_addrole_to_net Coverage Results" MODIFIED="1580891045661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zr_faqiliucheng1.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zr_faqiliucheng1 Coverage Results" MODIFIED="1582527443360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_x_switchnet.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_x_switchnet Coverage Results" MODIFIED="1586828008937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_e_wushenren.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_e_wushenren Coverage Results" MODIFIED="1581579852222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_e_sure_and_cancle.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_e_sure_and_cancle Coverage Results" MODIFIED="1594631623705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_v_create_biandian_project.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_v_create_biandian_project Coverage Results" MODIFIED="1586410469730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_4_planconsult_project_TestIndex.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex Coverage Results" MODIFIED="1581990496531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_zzd_wushen_approvesuccess.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_zzd_wushen_approvesuccess Coverage Results" MODIFIED="1586876099418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_e_guidang_success.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_e_guidang_success Coverage Results" MODIFIED="1591679137760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_n_deleteproject.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_n_deleteproject Coverage Results" MODIFIED="1586602250698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_9_liushenren_loginsuccess.coverage" NAME="Unittests for test_net_project.TestIndex.test_9_liushenren_loginsuccess Coverage Results" MODIFIED="1580893618227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex.coverage" NAME="Unittests for test_waterconsult_project.TestIndex Coverage Results" MODIFIED="1581167868507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_t_zonggongri.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_t_zonggongri Coverage Results" MODIFIED="1586489683184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_o_results_warning.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_o_results_warning Coverage Results" MODIFIED="1594705361959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_n_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_n_create_route_project Coverage Results" MODIFIED="1582510091331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_l_jixiao.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_l_jixiao Coverage Results" MODIFIED="1586331787212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex Coverage Results" MODIFIED="1581570629347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_b_create_biandian_project.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_b_create_biandian_project Coverage Results" MODIFIED="1586601842116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_8_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1581950529267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_5_wushenren.coverage" NAME="Unittests for test_net_project.TestIndex.test_5_wushenren Coverage Results" MODIFIED="1580891098536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex_test_d_wushen_loginapprove.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex.test_d_wushen_loginapprove Coverage Results" MODIFIED="1581304021491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_e_wushen_loginapprove.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_e_wushen_loginapprove Coverage Results" MODIFIED="1581062118360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_h_wushen_loginapprove.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_h_wushen_loginapprove Coverage Results" MODIFIED="1581405939908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_d_designsum_warning.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_d_designsum_warning Coverage Results" MODIFIED="1594630294826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_b_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_b_create_route_project Coverage Results" MODIFIED="1586761676297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_d_faqiliucheng.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_d_faqiliucheng Coverage Results" MODIFIED="1581674749485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_11_qishenren_loginsuccess.coverage" NAME="Unittests for test_net_project.TestIndex.test_11_qishenren_loginsuccess Coverage Results" MODIFIED="1580896128870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestPhotovoltaicIndex_test_c_jixiao.coverage" NAME="Unittests for test_8_biandian_project.TestPhotovoltaicIndex.test_c_jixiao Coverage Results" MODIFIED="1581469493335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_p_general_layout_fallback.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_p_general_layout_fallback Coverage Results" MODIFIED="1594793394606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_n_faqiren_checksuccess.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_n_faqiren_checksuccess Coverage Results" MODIFIED="1586399163992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zi_wushenren_loginsucess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zi_wushenren_loginsucess Coverage Results" MODIFIED="1582254885574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_3_upload_file.coverage" NAME="Unittests for test_net_project.TestIndex.test_3_upload_file Coverage Results" MODIFIED="1580881583711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_10_liushenren_approvesuccess.coverage" NAME="Unittests for test_net_project.TestIndex.test_10_liushenren_approvesuccess Coverage Results" MODIFIED="1580894764703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_za_switchnet.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_za_switchnet Coverage Results" MODIFIED="1586428062489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_i_faqiren_checksuccess.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_i_faqiren_checksuccess Coverage Results" MODIFIED="1581063016806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zr_upload_file.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zr_upload_file Coverage Results" MODIFIED="1582530180341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_e_hanzheng_approvesuccess.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_e_hanzheng_approvesuccess Coverage Results" MODIFIED="1581498261367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_k_faqiliucheng.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_k_faqiliucheng Coverage Results" MODIFIED="1586398694369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_zc_jixiao.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_zc_jixiao Coverage Results" MODIFIED="1586410584772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_4_planconsult_project_TestIndex.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex Coverage Results" MODIFIED="1581575577230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_u_switchnet.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_u_switchnet Coverage Results" MODIFIED="1587205027175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_r_faqiliucheng.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_r_faqiliucheng Coverage Results" MODIFIED="1582264493709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_b_create_biandian_project.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_b_create_biandian_project Coverage Results" MODIFIED="1581560496407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_project_TestIndex_test_1_addproject.coverage" NAME="Unittests for test_project.TestIndex.test_1_addproject Coverage Results" MODIFIED="1580719890732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_5_waterconsult_project_TestWaterConsultIndex.coverage" NAME="Unittests for test_5_waterconsult_project.TestWaterConsultIndex Coverage Results" MODIFIED="1599554952408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_2_net_project_TestIndex.coverage" NAME="Unittests for test_2_net_project.TestIndex Coverage Results" MODIFIED="1581994130473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_4_planconsult_project_TestIndex_test_b_create_planconsult_project.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_b_create_planconsult_project Coverage Results" MODIFIED="1581575083245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_a_check_route_fields.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_a_check_route_fields Coverage Results" MODIFIED="1581409552963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_o_faqiliucheng.coverage" NAME="Unittests for test_net_project.TestIndex.test_o_faqiliucheng Coverage Results" MODIFIED="1580904943152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_w_jixiao.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_w_jixiao Coverage Results" MODIFIED="1586355509744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_1_login_TestLogin_test_success.coverage" NAME="Unittests for test_1_login.TestLogin.test_success Coverage Results" MODIFIED="1581260777626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zc_guidangf.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zc_guidangf Coverage Results" MODIFIED="1582268914976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_w_faqiren_checkproject.coverage" NAME="Unittests for test_net_project.TestIndex.test_w_faqiren_checkproject Coverage Results" MODIFIED="1580907384286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_d_faqiliucheng.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_d_faqiliucheng Coverage Results" MODIFIED="1580976773065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex Coverage Results" MODIFIED="1581986742392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex_test_a_check_waterdesign_fields.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex.test_a_check_waterdesign_fields Coverage Results" MODIFIED="1581298130014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_m_result_default.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_m_result_default Coverage Results" MODIFIED="1594695373866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zd_guidangs.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zd_guidangs Coverage Results" MODIFIED="1582269151444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_q_add_major.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_q_add_major Coverage Results" MODIFIED="1594710241058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_p_default_majorname.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_p_default_majorname Coverage Results" MODIFIED="1594705805384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_p_hanzheng_approvesuccess.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_p_hanzheng_approvesuccess Coverage Results" MODIFIED="1582510236779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_m_deleteproject.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_m_deleteproject Coverage Results" MODIFIED="1586761748269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex Coverage Results" MODIFIED="1599528535384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex.coverage" NAME="Unittests for test_planconsult_project.TestIndex Coverage Results" MODIFIED="1581060637888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_5_waterconsult_project_TestWaterConsultIndex.coverage" NAME="Unittests for test_5_waterconsult_project.TestWaterConsultIndex Coverage Results" MODIFIED="1581679905766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_project_TestIndex_test_1_netproject_field.coverage" NAME="Unittests for test_project.TestIndex.test_1_netproject_field Coverage Results" MODIFIED="1580782770435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1581601266656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex Coverage Results" MODIFIED="1581674817217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_b_costpercent.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_b_costpercent Coverage Results" MODIFIED="1594628873059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_b_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_b_create_route_project Coverage Results" MODIFIED="1581562240782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_c_jixiao.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_c_jixiao Coverage Results" MODIFIED="1586317647432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1594800845556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zq_addrole_to_net.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zq_addrole_to_net Coverage Results" MODIFIED="1582530075046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1586950689505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_zj_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_zj_create_route_project Coverage Results" MODIFIED="1586938347150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_c_costpercent_warning.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_c_costpercent_warning Coverage Results" MODIFIED="1594629829203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_d_guidang_fail.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_d_guidang_fail Coverage Results" MODIFIED="1591671220165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_zd_faqijiaoshen.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_zd_faqijiaoshen Coverage Results" MODIFIED="1586411227385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_zh_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_zh_jixiao Coverage Results" MODIFIED="1586934782365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_2_pro_project_TestNetIndex_test_b_check_pro_box.coverage" NAME="Unittests for test_2_pro_project.TestNetIndex.test_b_check_pro_box Coverage Results" MODIFIED="1594803527650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_7_wushenren_loginsucess.coverage" NAME="Unittests for test_net_project.TestIndex.test_7_wushenren_loginsucess Coverage Results" MODIFIED="1580891412366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_net_project_TestIndex_test_b_create_netproject.coverage" NAME="Unittests for test_8_net_project.TestIndex.test_b_create_netproject Coverage Results" MODIFIED="1586507929460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_c_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_c_jixiao Coverage Results" MODIFIED="1581568921452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_zza_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_zza_jixiao Coverage Results" MODIFIED="1586941720368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_1_login_TestLogin.coverage" NAME="Unittests for test_1_login.TestLogin Coverage Results" MODIFIED="1586947718608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_ze_jixiao.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_ze_jixiao Coverage Results" MODIFIED="1586411546341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_d_costpercent_warning.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_d_costpercent_warning Coverage Results" MODIFIED="1594689720943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_h_ground_ignore.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_h_ground_ignore Coverage Results" MODIFIED="1594783309753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_r_quxiaoliucheng.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_r_quxiaoliucheng Coverage Results" MODIFIED="1582468901993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_b_create_route_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_b_create_route_project Coverage Results" MODIFIED="1587205179973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$biandian_project.coverage" NAME="biandian_project Coverage Results" MODIFIED="1586308308224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_net_project_TestIndex_test_zf_create_netproject.coverage" NAME="Unittests for test_8_net_project.TestIndex.test_zf_create_netproject Coverage Results" MODIFIED="1586510247349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_g_faqiren_checksuccess.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_g_faqiren_checksuccess Coverage Results" MODIFIED="1580984626959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_ze_delete4project.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_ze_delete4project Coverage Results" MODIFIED="1582269218360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_7_route_project_TestRouteIndex.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex Coverage Results" MODIFIED="1581951996772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_b_create_photevoltaic_project.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_b_create_photevoltaic_project Coverage Results" MODIFIED="1581063242412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_b_create_photevoltaic_project.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_b_create_photevoltaic_project Coverage Results" MODIFIED="1581578102411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex_test_f_faqiren_checksuccess.coverage" NAME="Unittests for test_waterconsult_project.TestIndex.test_f_faqiren_checksuccess Coverage Results" MODIFIED="1581170212343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_8_wushenren_approvesucess.coverage" NAME="Unittests for test_net_project.TestIndex.test_8_wushenren_approvesucess Coverage Results" MODIFIED="1580891459228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_m_wushen_approvesuccess.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_m_wushen_approvesuccess Coverage Results" MODIFIED="1586399055474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_net_project_TestIndex.coverage" NAME="Unittests for test_8_net_project.TestIndex Coverage Results" MODIFIED="1586959510136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_index_company_manager_TestIndex.coverage" NAME="Unittests for test_index_company_manager.TestIndex Coverage Results" MODIFIED="1580718167698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex_test_f_faqiren_checksuccess.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex.test_f_faqiren_checksuccess Coverage Results" MODIFIED="1581304554718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex Coverage Results" MODIFIED="1599552568422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_h_wushenren_approvesucess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_h_wushenren_approvesucess Coverage Results" MODIFIED="1581478074222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_biandian_project_TestBiandianIndex_test_b_create_biandian_project.coverage" NAME="Unittests for test_9_biandian_project.TestBiandianIndex.test_b_create_biandian_project Coverage Results" MODIFIED="1598062134589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_b_create_photevoltaic_project.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_b_create_photevoltaic_project Coverage Results" MODIFIED="1586429435319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestPhotovoltaicIndex_test_a_photovoltaic_field.coverage" NAME="Unittests for test_8_biandian_project.TestPhotovoltaicIndex.test_a_photovoltaic_field Coverage Results" MODIFIED="1581412350801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zm_wanglu_approvesucess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zm_wanglu_approvesucess Coverage Results" MODIFIED="1582278501049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_zg_switchnet.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_zg_switchnet Coverage Results" MODIFIED="1586417189918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_e_jixiao.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_e_jixiao Coverage Results" MODIFIED="1581061033748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_net_project_TestIndex_test_p_create_netproject.coverage" NAME="Unittests for test_8_net_project.TestIndex.test_p_create_netproject Coverage Results" MODIFIED="1586508685745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_i_create_biandian_project.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_i_create_biandian_project Coverage Results" MODIFIED="1582417815304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_4_planconsult_project_TestIndex_test_c_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_c_jixiao Coverage Results" MODIFIED="1581676003707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestPhotovoltaicIndex_test_b_create_biandian_project.coverage" NAME="Unittests for test_8_biandian_project.TestPhotovoltaicIndex.test_b_create_biandian_project Coverage Results" MODIFIED="1581415474962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1581560669734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zs_faqiliucheng1.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zs_faqiliucheng1 Coverage Results" MODIFIED="1582530222259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex_test_b_create_waterdesign_project.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex.test_b_create_waterdesign_project Coverage Results" MODIFIED="1581302973437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_o_faqiren_faqisure.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_o_faqiren_faqisure Coverage Results" MODIFIED="1586399795927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex_test_e_wushen_approvesuccess.coverage" NAME="Unittests for test_waterconsult_project.TestIndex.test_e_wushen_approvesuccess Coverage Results" MODIFIED="1581169031092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_6_faqiliucheng.coverage" NAME="Unittests for test_net_project.TestIndex.test_6_faqiliucheng Coverage Results" MODIFIED="1580891279101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_d_faqijiaoshen.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_d_faqijiaoshen Coverage Results" MODIFIED="1581471960930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex Coverage Results" MODIFIED="1581578578867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex Coverage Results" MODIFIED="1586957017966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_b_create_waterdesign_project.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_b_create_waterdesign_project Coverage Results" MODIFIED="1581321499273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_2_net_project_TestIndex.coverage" NAME="Unittests for test_2_net_project.TestIndex Coverage Results" MODIFIED="1581672021820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_g_wushenren_loginsucess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_g_wushenren_loginsucess Coverage Results" MODIFIED="1581477708407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_1_login_TestLogin_test_a_success.coverage" NAME="Unittests for test_1_login.TestLogin.test_a_success Coverage Results" MODIFIED="1581384507732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex_test_d_wushen_loginapprove.coverage" NAME="Unittests for test_waterconsult_project.TestIndex.test_d_wushen_loginapprove Coverage Results" MODIFIED="1581166642538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_i_wushen_approvesuccess.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_i_wushen_approvesuccess Coverage Results" MODIFIED="1581406636673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_v_create_planconsult_project.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_v_create_planconsult_project Coverage Results" MODIFIED="1586827015293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_d_addrole_to_net.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_d_addrole_to_net Coverage Results" MODIFIED="1581474322975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex Coverage Results" MODIFIED="1586955542385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_zh_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_zh_jixiao Coverage Results" MODIFIED="1586881616794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_a_buttons.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_a_buttons Coverage Results" MODIFIED="1594626239062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_j_restore_communication.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_j_restore_communication Coverage Results" MODIFIED="1594790018314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_x_faqiliucheng.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_x_faqiliucheng Coverage Results" MODIFIED="1586826921169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex Coverage Results" MODIFIED="1581681744535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zn_faqiren_checkproject.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zn_faqiren_checkproject Coverage Results" MODIFIED="1582278673583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_e_aerial_survey_ignore.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_e_aerial_survey_ignore Coverage Results" MODIFIED="1594779065057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_a_photovoltaic_field.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_a_photovoltaic_field Coverage Results" MODIFIED="1580960012956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_a_default_projecttype.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_a_default_projecttype Coverage Results" MODIFIED="1594711606381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex_test_c_faqiliucheng.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex.test_c_faqiliucheng Coverage Results" MODIFIED="1581303655649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_4_planconsult_project_TestPlanConsult.coverage" NAME="Unittests for test_4_planconsult_project.TestPlanConsult Coverage Results" MODIFIED="1599554085496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_r_faqiren_checkproject.coverage" NAME="Unittests for test_net_project.TestIndex.test_r_faqiren_checkproject Coverage Results" MODIFIED="1580906050319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex.coverage" NAME="Unittests for test_2_net_project.TestIndex Coverage Results" MODIFIED="1581643895446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex Coverage Results" MODIFIED="1581572564131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_j_faqiren_checksuccess.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_j_faqiren_checksuccess Coverage Results" MODIFIED="1581407185772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_f_thirdguidang_fail.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_f_thirdguidang_fail Coverage Results" MODIFIED="1591680667188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_k_task_edit.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_k_task_edit Coverage Results" MODIFIED="1594691564898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_c_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_c_jixiao Coverage Results" MODIFIED="1586481393468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_zl_faqiliucheng.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_zl_faqiliucheng Coverage Results" MODIFIED="1586856550878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_zt_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_zt_jixiao Coverage Results" MODIFIED="1586868405224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zp_create_netproject.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zp_create_netproject Coverage Results" MODIFIED="1582530833891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_zf_sureperson_approvesuccess.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_zf_sureperson_approvesuccess Coverage Results" MODIFIED="1586832128955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_7_route_project_TestRouteIndex_test_h_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_h_jixiao Coverage Results" MODIFIED="1581688175117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_l_fallback_resource.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_l_fallback_resource Coverage Results" MODIFIED="1594791137661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_o_plumbing_fallback.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_o_plumbing_fallback Coverage Results" MODIFIED="1594792935018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_b_create_netproject.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_b_create_netproject Coverage Results" MODIFIED="1582506049866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_4_planconsult_project_TestIndex_test_a_check_planconsult_fields.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_a_check_planconsult_fields Coverage Results" MODIFIED="1581574932351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_qq_faqiren_checkjixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_qq_faqiren_checkjixiao Coverage Results" MODIFIED="1582516176920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_g_default_designpro.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_g_default_designpro Coverage Results" MODIFIED="1594687595376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_8_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1581689423791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_e_wushen_loginapprove.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_e_wushen_loginapprove Coverage Results" MODIFIED="1581472249753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_u_switchnet.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_u_switchnet Coverage Results" MODIFIED="1586358635916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_m_restore_ground_two.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_m_restore_ground_two Coverage Results" MODIFIED="1594791707557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_n_addrole_to_net.coverage" NAME="Unittests for test_net_project.TestIndex.test_n_addrole_to_net Coverage Results" MODIFIED="1580904889437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_l_add_same_resutl.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_l_add_same_resutl Coverage Results" MODIFIED="1594692922350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_biandian_project_TestBiandianIndex_test_zc_create_biandian_project.coverage" NAME="Unittests for test_9_biandian_project.TestBiandianIndex.test_zc_create_biandian_project Coverage Results" MODIFIED="1597996954467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$ff.coverage" NAME="ff Coverage Results" MODIFIED="1581496641140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_f_wushen_approvesuccess.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_f_wushen_approvesuccess Coverage Results" MODIFIED="1580983592046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_h_faqiguidang_failagain.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_h_faqiguidang_failagain Coverage Results" MODIFIED="1582210126906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_q_faqiren_checkdate.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_q_faqiren_checkdate Coverage Results" MODIFIED="1586743629280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex.coverage" NAME="Unittests for test_2_net_project.TestIndex Coverage Results" MODIFIED="1582537408633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zf_create_netproject.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zf_create_netproject Coverage Results" MODIFIED="1582276695498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_s_zonggongri.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_s_zonggongri Coverage Results" MODIFIED="1586408782708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_f_resource_finish.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_f_resource_finish Coverage Results" MODIFIED="1594782735474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_p_create_photevoltaic_project.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_p_create_photevoltaic_project Coverage Results" MODIFIED="1582505888330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_c_switchnet.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_c_switchnet Coverage Results" MODIFIED="1597978865119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_j_zonggongri.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_j_zonggongri Coverage Results" MODIFIED="1586398484982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_g_faqiliucheng2.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_g_faqiliucheng2 Coverage Results" MODIFIED="1582178164012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zh_faqiliucheng1.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zh_faqiliucheng1 Coverage Results" MODIFIED="1582254838704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_f_wushen_approvesuccess.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_f_wushen_approvesuccess Coverage Results" MODIFIED="1581062611959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_f_wushen_approvesuccess.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_f_wushen_approvesuccess Coverage Results" MODIFIED="1586310853516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1581998385305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_d_communication_ignore.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_d_communication_ignore Coverage Results" MODIFIED="1594778114228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_n_restore_ground.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_n_restore_ground Coverage Results" MODIFIED="1594792400485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_h_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_h_jixiao Coverage Results" MODIFIED="1597993556218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex_test_b_create_planconsult_project.coverage" NAME="Unittests for test_waterconsult_project.TestIndex.test_b_create_planconsult_project Coverage Results" MODIFIED="1581150014938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_b_buttons.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_b_buttons Coverage Results" MODIFIED="1594711655588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$delete_log.coverage" NAME="delete_log Coverage Results" MODIFIED="1581593732681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_h_task_edit.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_h_task_edit Coverage Results" MODIFIED="1594688312410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_3$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1587010932004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_v_wushenren_approvesucess.coverage" NAME="Unittests for test_net_project.TestIndex.test_v_wushenren_approvesucess Coverage Results" MODIFIED="1580907245626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_c_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_c_jixiao Coverage Results" MODIFIED="1586506024966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_f_wushen_approvesuccess.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_f_wushen_approvesuccess Coverage Results" MODIFIED="1581472589648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_p_create_netproject.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_p_create_netproject Coverage Results" MODIFIED="1582264227996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_q_addrole_to_net.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_q_addrole_to_net Coverage Results" MODIFIED="1582264278841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_q_wushenren_approvesucess.coverage" NAME="Unittests for test_net_project.TestIndex.test_q_wushenren_approvesucess Coverage Results" MODIFIED="1580905091000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_f_second_rate.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_f_second_rate Coverage Results" MODIFIED="1581498086562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_4_planconsult_project_TestPlanConsult_test_m_switchnet.coverage" NAME="Unittests for test_4_planconsult_project.TestPlanConsult.test_m_switchnet Coverage Results" MODIFIED="1591861558130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_i_ground_two_ignore.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_i_ground_two_ignore Coverage Results" MODIFIED="1594783651983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_n_caclu_basis.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_n_caclu_basis Coverage Results" MODIFIED="1594703442167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_project_TestIndex_test_2_create_netproject.coverage" NAME="Unittests for test_project.TestIndex.test_2_create_netproject Coverage Results" MODIFIED="1580826351336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zg_addrole2_to_net.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zg_addrole2_to_net Coverage Results" MODIFIED="1582254742286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_7_route_project_TestRouteIndex_test_d_hanzheng_logincheck.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_d_hanzheng_logincheck Coverage Results" MODIFIED="1581409892855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_1_login_TestLogin.coverage" NAME="Unittests for test_1_login.TestLogin Coverage Results" MODIFIED="1581517737901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1586948045888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_d_jixiao.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_d_jixiao Coverage Results" MODIFIED="1581057752122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex Coverage Results" MODIFIED="1594794274377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_2_net_project_TestIndex_test_f_faqiliucheng.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_f_faqiliucheng Coverage Results" MODIFIED="1581671902929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_9_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1599533910137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$ww.coverage" NAME="ww Coverage Results" MODIFIED="1582515511235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_x_faqijiaoshen.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_x_faqijiaoshen Coverage Results" MODIFIED="1586393989195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_1_login_TestLogin.coverage" NAME="Unittests for test_1_login.TestLogin Coverage Results" MODIFIED="1598923465854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zt_jiaoheren_check.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zt_jiaoheren_check Coverage Results" MODIFIED="1582529002105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex Coverage Results" MODIFIED="1581991745206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_l_create_planconsult_project.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_l_create_planconsult_project Coverage Results" MODIFIED="1586774034422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_photovoltaic_project_TestPhotovoltaicIndex_test_e_wushen_loginapprove.coverage" NAME="Unittests for test_photovoltaic_project.TestPhotovoltaicIndex.test_e_wushen_loginapprove Coverage Results" MODIFIED="1580980830286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_h_guidang.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_h_guidang Coverage Results" MODIFIED="1582181370981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_j_default_task.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_j_default_task Coverage Results" MODIFIED="1594690983022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex_test_c_faqiliucheng.coverage" NAME="Unittests for test_waterconsult_project.TestIndex.test_c_faqiliucheng Coverage Results" MODIFIED="1581152180477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_5_waterconsult_project_TestWaterConsultIndex.coverage" NAME="Unittests for test_5_waterconsult_project.TestWaterConsultIndex Coverage Results" MODIFIED="1581988309286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_zb_create_photevoltaic_project.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_zb_create_photevoltaic_project Coverage Results" MODIFIED="1586410518087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$err.coverage" NAME="err Coverage Results" MODIFIED="1586853762939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_g_general_layout_finish.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_g_general_layout_finish Coverage Results" MODIFIED="1594782927157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_s_create_netproject.coverage" NAME="Unittests for test_net_project.TestIndex.test_s_create_netproject Coverage Results" MODIFIED="1580906444317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex Coverage Results" MODIFIED="1586958554829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_7_route_project_TestRouteIndex.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex Coverage Results" MODIFIED="1581688317506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_c_plumbing_finish.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_c_plumbing_finish Coverage Results" MODIFIED="1594775849935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_z_guidang.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_z_guidang Coverage Results" MODIFIED="1582179875465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_2_create_netproject.coverage" NAME="Unittests for test_net_project.TestIndex.test_2_create_netproject Coverage Results" MODIFIED="1580865741502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute___$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_h_deleteproject.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_h_deleteproject Coverage Results" MODIFIED="1581950120060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_biandian_project_TestBiandianIndex_test_zj_deleteproject.coverage" NAME="Unittests for test_9_biandian_project.TestBiandianIndex.test_zj_deleteproject Coverage Results" MODIFIED="1598061473691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_biandian_project_TestBiandianIndex_test_j_faqijiaoshen.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex.test_j_faqijiaoshen Coverage Results" MODIFIED="1582417930308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_2_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1587200172729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex.coverage" NAME="Unittests for test_9_process_back.TestNetIndex Coverage Results" MODIFIED="1594623259812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$Unittests_for_test_4_planconsult_project_TestIndex.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex Coverage Results" MODIFIED="1581678355536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_8_net_project_TestNetIndex_test_a_netproject_field.coverage" NAME="Unittests for test_8_net_project.TestNetIndex.test_a_netproject_field Coverage Results" MODIFIED="1591683181255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_12_qishenren_approvesuccess.coverage" NAME="Unittests for test_net_project.TestIndex.test_12_qishenren_approvesuccess Coverage Results" MODIFIED="1580896796216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_p_wushenren_loginsucess.coverage" NAME="Unittests for test_net_project.TestIndex.test_p_wushenren_loginsucess Coverage Results" MODIFIED="1580905039161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex_test_u_faqiliucheng.coverage" NAME="Unittests for test_net_project.TestIndex.test_u_faqiliucheng Coverage Results" MODIFIED="1580906841253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_upload_$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1581679838750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_waterconsult_project_TestIndex_test_a_check_waterconsult_fields.coverage" NAME="Unittests for test_waterconsult_project.TestIndex.test_a_check_waterconsult_fields Coverage Results" MODIFIED="1581149250861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_g_wushenren_loginsucess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_g_wushenren_loginsucess Coverage Results" MODIFIED="1582177200501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_f_faqiliucheng.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_f_faqiliucheng Coverage Results" MODIFIED="1581061393047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_z_faqiliucheng.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_z_faqiliucheng Coverage Results" MODIFIED="1586844998921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_b_create_netproject.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_b_create_netproject Coverage Results" MODIFIED="1581473877264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex Coverage Results" MODIFIED="1586952219630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex_test_e_wushen_approvesuccess.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex.test_e_wushen_approvesuccess Coverage Results" MODIFIED="1581304330201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_s_deleteproject.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_s_deleteproject Coverage Results" MODIFIED="1586757612552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_g_jianguan_approvesuccess.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_g_jianguan_approvesuccess Coverage Results" MODIFIED="1582204977476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_7_route_project_TestRouteIndex_test_o_jixiao.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_o_jixiao Coverage Results" MODIFIED="1582510201911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_process_back_TestNetIndex_test_i_taskinput_warning.coverage" NAME="Unittests for test_9_process_back.TestNetIndex.test_i_taskinput_warning Coverage Results" MODIFIED="1594690418055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_2_net_project_TestIndex_test_l_qishenren_approvesuccess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_l_qishenren_approvesuccess Coverage Results" MODIFIED="1581488306914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_5_waterconsult_project_TestWaterConsultIndex.coverage" NAME="Unittests for test_5_waterconsult_project.TestWaterConsultIndex Coverage Results" MODIFIED="1586956804676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_9_pro_project_TestNetIndex_test_a_list_percen.coverage" NAME="Unittests for test_9_pro_project.TestNetIndex.test_a_list_percen Coverage Results" MODIFIED="1594718560671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zu_jiaohe_approvesucess.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zu_jiaohe_approvesucess Coverage Results" MODIFIED="1582530744586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_3_photovoltaic_project_TestPhotovoltaicIndex_test_l_wushen_loginapprove.coverage" NAME="Unittests for test_3_photovoltaic_project.TestPhotovoltaicIndex.test_l_wushen_loginapprove Coverage Results" MODIFIED="1586398910237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_4_planconsult_project_TestIndex_test_e_create_planconsult_project.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_e_create_planconsult_project Coverage Results" MODIFIED="1581577563765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_6_waterdesign_project_TestWaterDesignIndex.coverage" NAME="Unittests for test_6_waterdesign_project.TestWaterDesignIndex Coverage Results" MODIFIED="1599555229120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_8_biandian_project_TestBiandianIndex.coverage" NAME="Unittests for test_8_biandian_project.TestBiandianIndex Coverage Results" MODIFIED="1582532472410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_biandian_project_TestBiandianIndex_test_y_jixiao.coverage" NAME="Unittests for test_2_biandian_project.TestBiandianIndex.test_y_jixiao Coverage Results" MODIFIED="1586394189925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_g_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_g_jixiao Coverage Results" MODIFIED="1586953860972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_net_project_TestIndex.coverage" NAME="Unittests for test_net_project.TestIndex Coverage Results" MODIFIED="1580901887837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_2_net_project_TestIndex_test_zc_guidang.coverage" NAME="Unittests for test_2_net_project.TestIndex.test_zc_guidang Coverage Results" MODIFIED="1582181454614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_2$Unittests_for_test_4_planconsult_project_TestIndex_test_m_jixiao.coverage" NAME="Unittests for test_4_planconsult_project.TestIndex.test_m_jixiao Coverage Results" MODIFIED="1586774081861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute_1_4$Unittests_for_test_7_route_project_TestRouteIndex_test_i_hanzheng_approve.coverage" NAME="Unittests for test_7_route_project.TestRouteIndex.test_i_hanzheng_approve Coverage Results" MODIFIED="1597994956824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Design_institute$Unittests_for_test_planconsult_project_TestIndex_test_d_create_planconsult_project.coverage" NAME="Unittests for test_planconsult_project.TestIndex.test_d_create_planconsult_project Coverage Results" MODIFIED="1581060872575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_4_planconsult_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-212">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_3_photovoltaic_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="46" column="77" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PageObjects/photovoltaic_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1577">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jixiao</find>
+      <find>确定</find>
+      <find>退出</find>
+      <find>hanzheng</find>
+      <find>b_sure_button1</find>
+      <find>faqijiaoshen</find>
+      <find>hanzheng1</find>
+      <find>faqijiaoshen33</find>
+      <find>变电工程</find>
+      <find>w_sure</find>
+      <find>jixiaoguanli_4</find>
+      <find>jixiaoguanli_2</find>
+      <find>w_wushen_button</find>
+      <find>jixiaoguanli_36</find>
+      <find>wushenren_loginapprove</find>
+      <find>wushenren_approvesucess</find>
+      <find>wushenren_loginapprove_b</find>
+      <find>//b[text()=&quot;成品质量系数：&quot;]/following-sibling::img[@src]</find>
+      <find>//label[text()=&quot;监管人：&quot;]/following-sibling::button</find>
+      <find>//tr[@class][1]//td[2]/span</find>
+      <find>tibaobili_link</find>
+      <find>file_sure_button</find>
+      <find>//div[@class=&quot;poa txt-c w-p100 h-50 pt-10 bt-c&quot;]//span[text()=&quot;确定&quot;]</find>
+      <find>huiqianjieduan</find>
+      <find>huiqian</find>
+      <find>//span[text()=&quot; 已延期 &quot;]/following-sibling::span[1]</find>
+      <find>project_proc</find>
+      <find>root</find>
+      <find>会签</find>
+      <find>脚本</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PageLocators/login_page_locator.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_index_company_manager.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_login.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/index_page.py" />
+        <option value="$PROJECT_DIR$/PageLocators/index_page_locator.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_net_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_photovoltaic_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_planconsult_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_waterconsult_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/login_page.py" />
+        <option value="$PROJECT_DIR$/ff.py" />
+        <option value="$PROJECT_DIR$/Outputs/screenshots/111.py" />
+        <option value="$PROJECT_DIR$/Common/delete_log.py" />
+        <option value="$PROJECT_DIR$/ww.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_8_biandian_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_2_net_project.py" />
+        <option value="$PROJECT_DIR$/111.txt" />
+        <option value="$PROJECT_DIR$/err.py" />
+        <option value="$PROJECT_DIR$/Common/switch_net.py" />
+        <option value="$PROJECT_DIR$/Common/basepage.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_9_pro_project.py" />
+        <option value="$PROJECT_DIR$/main_run.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_2_biandian_project.py" />
+        <option value="$PROJECT_DIR$/TestDatas/index_datas.py" />
+        <option value="$PROJECT_DIR$/PageLocators/route_locator.py" />
+        <option value="$PROJECT_DIR$/TestDatas/global_datas.py" />
+        <option value="$PROJECT_DIR$/PageLocators/biandian_locator.py" />
+        <option value="$PROJECT_DIR$/PageLocators/netdistribution_locator.py" />
+        <option value="$PROJECT_DIR$/PageLocators/photovoltaic_locator.py" />
+        <option value="$PROJECT_DIR$/PageLocators/planconsult_locator.py" />
+        <option value="$PROJECT_DIR$/PageLocators/waterconsult_locator.py" />
+        <option value="$PROJECT_DIR$/PageLocators/waterdesign_locator.py" />
+        <option value="$PROJECT_DIR$/PageLocators/process_front_locator.py" />
+        <option value="$PROJECT_DIR$/PageObjects/process_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_2_pro_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_3_photovoltaic_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_4_planconsult_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_5_waterconsult_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_6_waterdesign_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_7_route_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_9_biandian_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/photovoltaic_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/planningconsulting_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/waterconsult_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/waterdesign_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/route_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/biandian_project.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_1_login.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_8_net_project.py" />
+        <option value="$PROJECT_DIR$/PageObjects/distributionnet_project.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="132" />
+    <option name="y" value="303" />
+    <option name="width" value="1515" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design_institute_1.4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_institute_1.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_institute_1.4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_institute_1.4" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_institute_1.4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_institute_1.4" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDatas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\自动化脚本\NEWNEW\Design_institute\Outputs\screenshots" />
+      <recent name="D:\自动化脚本\NEWNEW\Design_institute" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_8_net_project.TestNetIndex">
+    <configuration name="Unittests for test_2_pro_project.TestNetIndex" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dhvirTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_2_pro_project.TestNetIndex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_2_pro_project.TestNetIndex.test_a_list_percen" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dhvirTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_2_pro_project.TestNetIndex.test_a_list_percen&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_5_waterconsult_project.TestWaterConsultIndex" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dhvirTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_5_waterconsult_project.TestWaterConsultIndex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_6_waterdesign_project.TestWaterDesignIndex" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dhvirTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_6_waterdesign_project.TestWaterDesignIndex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_8_net_project.TestNetIndex" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dhvirTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_8_net_project.TestNetIndex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_8_net_project.TestNetIndex" />
+        <item itemvalue="Python tests.Unittests for test_2_pro_project.TestNetIndex" />
+        <item itemvalue="Python tests.Unittests for test_2_pro_project.TestNetIndex.test_a_list_percen" />
+        <item itemvalue="Python tests.Unittests for test_6_waterdesign_project.TestWaterDesignIndex" />
+        <item itemvalue="Python tests.Unittests for test_5_waterconsult_project.TestWaterConsultIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9684925-6fc6-4fc4-9a1c-7a7dcb198b37" name="Default Changelist" comment="" />
+      <created>1580706687616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580706687616</updated>
+      <workItem from="1580706713207" duration="10360000" />
+      <workItem from="1580776016086" duration="46425000" />
+      <workItem from="1580875964983" duration="30443000" />
+      <workItem from="1580948490417" duration="32030000" />
+      <workItem from="1581034771432" duration="28163000" />
+      <workItem from="1581147571424" duration="11979000" />
+      <workItem from="1581238214119" duration="920000" />
+      <workItem from="1581255455431" duration="34310000" />
+      <workItem from="1581380649811" duration="30817000" />
+      <workItem from="1581433624967" duration="1451000" />
+      <workItem from="1581467102389" duration="66201000" />
+      <workItem from="1581643854027" duration="507000" />
+      <workItem from="1581659544365" duration="605000" />
+      <workItem from="1581670814803" duration="12739000" />
+      <workItem from="1581690234039" duration="578000" />
+      <workItem from="1581691324492" duration="613000" />
+      <workItem from="1581820049598" duration="606000" />
+      <workItem from="1581857320646" duration="38000" />
+      <workItem from="1581861756552" duration="240000" />
+      <workItem from="1581862057414" duration="1563000" />
+      <workItem from="1581865935825" duration="15000" />
+      <workItem from="1581948057006" duration="16987000" />
+      <workItem from="1582002707053" duration="8000" />
+      <workItem from="1582003401353" duration="30000" />
+      <workItem from="1582003595869" duration="112000" />
+      <workItem from="1582079478282" duration="144000" />
+      <workItem from="1582159275153" duration="38645000" />
+      <workItem from="1582245091497" duration="35112000" />
+      <workItem from="1582358670129" duration="59613000" />
+      <workItem from="1582555366485" duration="777000" />
+      <workItem from="1582556317797" duration="1904000" />
+      <workItem from="1582592877491" duration="180000" />
+      <workItem from="1582621819648" duration="1080000" />
+      <workItem from="1582623170113" duration="36000" />
+      <workItem from="1582625414827" duration="470000" />
+      <workItem from="1582630507010" duration="625000" />
+      <workItem from="1582724615983" duration="18000" />
+      <workItem from="1582724832023" duration="740000" />
+      <workItem from="1582873259322" duration="103000" />
+      <workItem from="1586307523885" duration="71230000" />
+      <workItem from="1586479000210" duration="26404000" />
+      <workItem from="1586594089572" duration="1024000" />
+      <workItem from="1586600179528" duration="1417000" />
+      <workItem from="1586702132300" duration="713000" />
+      <workItem from="1586738539076" duration="28638000" />
+      <workItem from="1586825048248" duration="87411000" />
+      <workItem from="1586962008135" duration="18000" />
+      <workItem from="1586965045865" duration="4264000" />
+      <workItem from="1587000472357" duration="23000" />
+      <workItem from="1587008077464" duration="614000" />
+      <workItem from="1587010919548" duration="3520000" />
+      <workItem from="1587020014874" duration="1771000" />
+      <workItem from="1587022055858" duration="827000" />
+      <workItem from="1587023367501" duration="703000" />
+      <workItem from="1587024743309" duration="2886000" />
+      <workItem from="1587027955130" duration="17000" />
+      <workItem from="1587111146770" duration="231000" />
+      <workItem from="1587177661880" duration="24721000" />
+      <workItem from="1587209353576" duration="355000" />
+      <workItem from="1588517780695" duration="1719000" />
+      <workItem from="1588528761488" duration="16000" />
+      <workItem from="1588528779793" duration="326000" />
+      <workItem from="1588562299143" duration="63000" />
+      <workItem from="1588570341088" duration="132000" />
+      <workItem from="1590585054729" duration="9000" />
+      <workItem from="1590806417506" duration="395000" />
+      <workItem from="1590807131927" duration="1476000" />
+      <workItem from="1590809663228" duration="213000" />
+      <workItem from="1590809904304" duration="117000" />
+      <workItem from="1590845124233" duration="4371000" />
+      <workItem from="1590891624293" duration="2312000" />
+      <workItem from="1591166082905" duration="790000" />
+      <workItem from="1591283746922" duration="132000" />
+      <workItem from="1591668474279" duration="14000" />
+      <workItem from="1591668490200" duration="15385000" />
+      <workItem from="1591860539229" duration="11459000" />
+      <workItem from="1593654993482" duration="823000" />
+      <workItem from="1594713966150" duration="14000" />
+      <workItem from="1594713981235" duration="6138000" />
+      <workItem from="1594773584195" duration="18048000" />
+      <workItem from="1594801148414" duration="20000" />
+      <workItem from="1594801435664" duration="4580000" />
+      <workItem from="1594813614838" duration="763000" />
+      <workItem from="1594859233032" duration="4354000" />
+      <workItem from="1597973364714" duration="24106000" />
+      <workItem from="1598059949935" duration="7003000" />
+      <workItem from="1598105730067" duration="33674000" />
+      <workItem from="1598923327485" duration="15641000" />
+      <workItem from="1598962441829" duration="8776000" />
+      <workItem from="1599055973384" duration="539000" />
+      <workItem from="1599098346021" duration="3798000" />
+      <workItem from="1599439433073" duration="1742000" />
+      <workItem from="1599467569354" duration="28583000" />
+      <workItem from="1599643378583" duration="12000" />
+      <workItem from="1599643392803" duration="2698000" />
+      <workItem from="1599646260419" duration="15000" />
+      <workItem from="1599700051468" duration="632000" />
+      <workItem from="1599794364008" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex_test_a_list_percen - 2020.09.08 at 17h 09m 06s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex.test_a_list_percen" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex_test_a_list_percen - 2020.09.08 at 17h 09m 33s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex.test_a_list_percen" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex_test_a_list_percen - 2020.09.08 at 17h 09m 51s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex.test_a_list_percen" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex - 2020.09.08 at 17h 10m 32s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex - 2020.09.08 at 17h 12m 09s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex - 2020.09.08 at 17h 14m 28s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex - 2020.09.08 at 17h 21m 37s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex - 2020.09.08 at 17h 26m 23s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_2_pro_project_TestNetIndex - 2020.09.08 at 17h 30m 40s.xml">
+      <configuration name="Unittests for test_2_pro_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_8_net_project_TestNetIndex - 2020.09.09 at 17h 50m 32s.xml">
+      <configuration name="Unittests for test_8_net_project.TestNetIndex" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="925087000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7413793" visible="true" weight="0.26839128" />
+      <window_info id="Structure" order="1" sideWeight="0.25862068" side_tool="true" weight="0.24090542" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.22077923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8957154" weight="0.053285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3283859" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3283859" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.10428456" side_tool="true" weight="0.55417407" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283859" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32983023" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7413793" visible="true" weight="0.14470494" />
+      <window_info id="Structure" order="1" sideWeight="0.25862068" side_tool="true" weight="0.24090542" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.22077923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8957154" visible="true" weight="0.3463588" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3283859" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3283859" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.10428456" side_tool="true" weight="0.55417407" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283859" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32983023" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/support/wait.py" />
+    <entry file="file://$PROJECT_DIR$/ff.py" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/_20200204121320.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/_20200204151259.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/_20200204215932.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/勾选同步校审_20200207153932.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/流程为空提示语_20200210083955.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/_20200209232332.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/111.py" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/获取列表长度_20200213201041.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/获取共XX行_20200213202432.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/项目台账为空提示语_20200213201649.png" />
+    <entry file="file://$PROJECT_DIR$/Outputs/logs/Web_Autotest_2020-02-13 1949.log" />
+    <entry file="file://$PROJECT_DIR$/Common/delete_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/login_page_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/111.txt" />
+    <entry file="file://$PROJECT_DIR$/err.py" />
+    <entry file="file://$PROJECT_DIR$/PageObjects/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/switch_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/route_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="483" column="4" selection-start-line="483" selection-start-column="4" selection-end-line="483" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDatas/index_datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="37" column="97" lean-forward="true" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/biandian_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="153" column="57" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/photovoltaic_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="227" column="4" lean-forward="true" selection-start-line="227" selection-start-column="4" selection-end-line="227" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/planconsult_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/waterconsult_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/waterdesign_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="143" column="85" selection-start-line="143" selection-start-column="85" selection-end-line="143" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/process_front_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/process_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="65" column="75" lean-forward="true" selection-start-line="65" selection-start-column="75" selection-end-line="65" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/planningconsulting_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="549" column="69" selection-start-line="549" selection-start-column="67" selection-end-line="549" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/waterconsult_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="108" column="69" selection-start-line="108" selection-start-column="67" selection-end-line="108" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/waterdesign_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="114" column="70" selection-start-line="114" selection-start-column="68" selection-end-line="114" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/route_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="662" column="69" selection-start-line="662" selection-start-column="67" selection-end-line="662" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_7_route_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/biandian_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8265">
+          <caret line="435" column="70" selection-start-line="435" selection-start-column="68" selection-end-line="435" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_1_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_2_pro_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_5_waterconsult_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_6_waterdesign_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="66" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_9_biandian_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="34" column="60" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocators/netdistribution_locator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="174" column="71" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/distributionnet_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="109" column="70" selection-start-line="109" selection-start-column="68" selection-end-line="109" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDatas/global_datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_8_net_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="32" column="70" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_4_planconsult_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_3_photovoltaic_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="46" column="77" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/photovoltaic_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1577">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

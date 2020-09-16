@@ -1,0 +1,12 @@
+ Tue, 01 Sep 2020 09:24:32  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="loginName"]')元素可见,耗时0.04409170150756836
+ Tue, 01 Sep 2020 09:24:32  INFO basepage.py get_element [ line:73 ] 查找登陆页面_输入用户名的元素('xpath', '//input[@id="loginName"]')成功。
+ Tue, 01 Sep 2020 09:24:32  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="loginName"]')元素输入18612356691成功
+ Tue, 01 Sep 2020 09:24:32  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="password"]')元素可见,耗时0.03543400764465332
+ Tue, 01 Sep 2020 09:24:32  INFO basepage.py get_element [ line:73 ] 查找登陆页面_输入密码的元素('xpath', '//input[@id="password"]')成功。
+ Tue, 01 Sep 2020 09:24:32  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="password"]')元素输入123456成功
+ Tue, 01 Sep 2020 09:24:33  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//li[@class="cp"]')元素可见,耗时0.022937297821044922
+ Tue, 01 Sep 2020 09:24:33  INFO basepage.py get_element [ line:73 ] 查找登陆页面_点击登录按钮的元素('xpath', '//li[@class="cp"]')成功。
+ Tue, 01 Sep 2020 09:24:33  INFO basepage.py click [ line:141 ] 向('xpath', '//li[@class="cp"]')元素点击成功
+ Tue, 01 Sep 2020 09:24:34  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"工作台")]')元素可见,耗时1.0162806510925293
+ Tue, 01 Sep 2020 09:24:34  INFO basepage.py get_element [ line:73 ] 查找获取首页角标信息的元素('xpath', '//span[contains(text(),"工作台")]')成功。
+ Tue, 01 Sep 2020 09:24:34  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//span[contains(text(),"工作台")]')元素文本值成功

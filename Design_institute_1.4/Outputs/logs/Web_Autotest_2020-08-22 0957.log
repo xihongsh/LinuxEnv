@@ -1,0 +1,33 @@
+ Sat, 22 Aug 2020 09:58:02  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="退出"]/parent::a')元素可见,耗时1.2519800662994385
+ Sat, 22 Aug 2020 09:58:02  INFO basepage.py get_element [ line:73 ] 查找退出系统的元素('xpath', '//span[text()="退出"]/parent::a')成功。
+ Sat, 22 Aug 2020 09:58:02  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="退出"]/parent::a')元素点击成功
+ Sat, 22 Aug 2020 09:58:03  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="loginName"]')元素可见,耗时0.5755186080932617
+ Sat, 22 Aug 2020 09:58:03  INFO basepage.py get_element [ line:73 ] 查找输入用户名的元素('xpath', '//input[@id="loginName"]')成功。
+ Sat, 22 Aug 2020 09:58:03  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="loginName"]')元素输入18612356691成功
+ Sat, 22 Aug 2020 09:58:03  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//input[@id="password"]')元素可见,耗时0.024963855743408203
+ Sat, 22 Aug 2020 09:58:03  INFO basepage.py get_element [ line:73 ] 查找输入密码的元素('xpath', '//input[@id="password"]')成功。
+ Sat, 22 Aug 2020 09:58:03  INFO basepage.py input_text [ line:97 ] 向('xpath', '//input[@id="password"]')元素输入123456成功
+ Sat, 22 Aug 2020 09:58:04  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//li[@class="cp"]')元素可见,耗时0.06876921653747559
+ Sat, 22 Aug 2020 09:58:04  INFO basepage.py get_element [ line:73 ] 查找登陆的元素('xpath', '//li[@class="cp"]')成功。
+ Sat, 22 Aug 2020 09:58:04  INFO basepage.py click [ line:141 ] 向('xpath', '//li[@class="cp"]')元素点击成功
+ Sat, 22 Aug 2020 09:58:05  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素可见,耗时0.6382608413696289
+ Sat, 22 Aug 2020 09:58:05  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目管理'的元素('xpath', '//span[contains(text(),"项目管理")]/parent::a')成功。
+ Sat, 22 Aug 2020 09:58:05  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目管理")]/parent::a')元素点击成功
+ Sat, 22 Aug 2020 09:58:06  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素可见,耗时0.08274459838867188
+ Sat, 22 Aug 2020 09:58:06  INFO basepage.py get_element [ line:73 ] 查找首页_点击'项目台账'的元素('xpath', '//span[contains(text(),"项目台账")]/parent::a')成功。
+ Sat, 22 Aug 2020 09:58:06  INFO basepage.py click [ line:141 ] 向('xpath', '//span[contains(text(),"项目台账")]/parent::a')元素点击成功
+ Sat, 22 Aug 2020 09:58:08  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="pjlist-box mt-10"]')元素可见,耗时0.020908594131469727
+ Sat, 22 Aug 2020 09:58:08  INFO basepage.py get_elements [ line:223 ] 查找的元素('xpath', '//div[@class="pjlist-box mt-10"]')成功。
+ Sat, 22 Aug 2020 09:58:08  INFO basepage.py get_list_length [ line:246 ] 获取('xpath', '//div[@class="pjlist-box mt-10"]')元素属性值成功
+ Sat, 22 Aug 2020 09:58:09  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//span[text()="测试_变电工程"]/ancestor::ul//span[text()="删除"]')元素可见,耗时0.051859378814697266
+ Sat, 22 Aug 2020 09:58:09  INFO basepage.py get_element [ line:73 ] 查找删除'测试_变电工程'的元素('xpath', '//span[text()="测试_变电工程"]/ancestor::ul//span[text()="删除"]')成功。
+ Sat, 22 Aug 2020 09:58:09  INFO basepage.py click [ line:141 ] 向('xpath', '//span[text()="测试_变电工程"]/ancestor::ul//span[text()="删除"]')元素点击成功
+ Sat, 22 Aug 2020 09:58:09  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//button[text()="确定"]')元素可见,耗时0.0648186206817627
+ Sat, 22 Aug 2020 09:58:09  INFO basepage.py get_element [ line:73 ] 查找确定删除的元素('xpath', '//button[text()="确定"]')成功。
+ Sat, 22 Aug 2020 09:58:09  INFO basepage.py click [ line:141 ] 向('xpath', '//button[text()="确定"]')元素点击成功
+ Sat, 22 Aug 2020 09:58:10  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[text()="删除成功！"]')元素可见,耗时0.5754618644714355
+ Sat, 22 Aug 2020 09:58:10  INFO basepage.py get_element [ line:73 ] 查找获取'删除成功'的元素('xpath', '//div[text()="删除成功！"]')成功。
+ Sat, 22 Aug 2020 09:58:10  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//div[text()="删除成功！"]')元素文本值成功
+ Sat, 22 Aug 2020 09:58:14  INFO basepage.py wait_elevisible [ line:40 ] 等待('xpath', '//div[@class="nodatap"]')元素可见,耗时0.09274840354919434
+ Sat, 22 Aug 2020 09:58:14  INFO basepage.py get_element [ line:73 ] 查找项目台账为空提示语的元素('xpath', '//div[@class="nodatap"]')成功。
+ Sat, 22 Aug 2020 09:58:14  INFO basepage.py get_element_text [ line:184 ] 获取('xpath', '//div[@class="nodatap"]')元素文本值成功
